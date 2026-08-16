@@ -1,0 +1,194 @@
+# Syllabus 
+
+## Course description
+
+Application of machine learning tools, with an emphasis on solving practical problems. Data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results.
+
+## Class meetings
+
+### **Classes (lectures)**:
+
+| Section      | Day     | Time          | Zoom     |
+|--------------|---------|---------------|----------|
+| CPSC 330 911 | MWF     | 10:00 - 12:20 | DMP 310  |
+
+### **Tutorials**:
+
+In the summer, students will attend *two* tutorials each week, the first on T/W, and the second on Th/F.
+
+Tutorials for this course will be conducted by TAs, who will guide you through additional exercises and demos on the content covered each week. A bonus of up to 2% will be added to your final grade for attending tutorials.
+
+#### First tutorial of the week
+| Section | Days | Time        | Location | Assigned |
+|---------|------|-------------|----------|----------|
+| D1B     | T    | 10:00-11:00 | DMP 201  | Zoe      |
+| D1C     | T    | 11:00-12:00 | DMP 201  | Xuechun  |
+| D1E     | W    | 13:00-14:00 | DMP 301  | Minglong |
+| D1F     | W    | 13:00-14:00 | DMP 201  | TBD      |
+
+#### Second tutorial of the week
+| Section | Days | Time        | Location | Assigned |
+|---------|------|-------------|----------|----------|
+| D1B     | Th   | 10:00-11:00 | DMP 201  | Zoe      |
+| D1C     | Th   | 11:00-12:00 | DMP 201  | Cedar    |
+| D1E     | F    | 13:00-14:00 | DMP 301  | Charles  |
+| D1F     | F    | 13:00-14:00 | DMP 201  | Sneha    |
+
+
+## Teaching Team
+
+**Instructors**:
+
+- [Firas Moosvi](https://firas.moosvi.com), OH: after class Monday and Wednesday in DMP 310
+
+### Course coordinator
+- Emily Fuchs, please reach out to the course coordinator as a private message on Ed Discussion for: admin questions, extensions, academic concessions etc. 
+
+### TAs
+
+- TBD
+
+
+## Registration
+
+**Waitlists**:
+
+CPSC 330 is a very fast-paced course and students who register in the course late have a tendency to struggle greatly and are rarely able to catch-up. In 2026S1, we are expecting that all students who are registered on the waitlist by 3 PM on May 15th will have an opportunity to take the course. This also means that **the registration into the course will be closed by the end of the day on May 15th, and no further registrations will be permitted.** Of course, students will still be able to drop the course until UBC's official Add/Drop date. We hope this will allow all students to have the best chance at success in this course!
+
+**The instructors have no control over the waitlist order and cannot help you bypass the waiting list.**
+
+**Prerequisites**: The official prerequisites can be found [here](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=330&campuscd=UBC&dept=CPSC&pname=subjarea). If you do not meet the prerequisites, see [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/prerequisites) and [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/rules-about-cpsc-appeals-undergraduate-students). We were told that students should not visit the front desk in the CS main office about prerequisite issues, because the folks at the front desk do not have the authority to resolve prerequisite issues.
+
+In practice, the prerequisite is familiarity with Python programming.
+
+**Auditing**: If the course is full, we cannot accommodate official auditors. If there is space and you would like to audit the course, please contact the instructor. All UBC students are welcome to audit the course unofficially. 
+
+## Grading scheme
+ 
+The grading scheme for the course is tentatively (to be confirmed), as follows:
+
+| Component     | Weight |
+|---------------|--------|
+| Learning Logs | 10%    |
+| Midterm 1     | 15%    |
+| Midterm 2     | 15%    |
+| Midterm 3     | 15%    |
+| Assignments   | 20%    |
+| Final         | 25%    |
+| Tutorial participation | up to 2% bonus    | in person attendance to 10 tutorials |
+
+**All students must satisfy ALL the following conditions to pass the course:**
+- Pass the Assignments component with an average grade of at least 40%,
+- Pass the Midterms and Final Exam together with a weighted average grade of at least 50%
+- Pass the Final Exam with a grade of at least 40%,
+
+**If a student does not satisfy the appropriate requirements, the student will be assigned the lower of their earned course grade or, a maximum overall grade of 45 in the course. In exceptional cases (with approved concessions), passing requirements may be waived at the discretion of the course instructor; if waived, the student will earn a maximum grade of 50% in the course.**
+
+<!-- ### iClicker 
+
+The iClicker participation grade will mainly consider your engagement rather than the accuracy of your responses. Nevertheless, these questions are intended to facilitate your learning, so please make an earnest effort when providing your answers. Participation in 80% of the classes is enough to receive the full participation grade - this gives you some wiggle room if you happen to miss a class or two. 
+-->
+
+### Assignments
+
+The plan is that most of the assignments will contribute equally towards the overall Assignments grade.
+<!-- However, this is not finalized yet.
+For example, the last assignment ends up particularly short or long due to timing. -->
+We will drop your lowest homework grade. However, because Homework 5 is a significant, project-like assignment, and it is crucial for students' preparation, **Homework 5 is excluded from the drop grade policy.**
+<!--**By default late submissions will not be accepted.** The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted. I do not like this, but I believe the overall policy is best for the class as a whole.--> 
+See [this document](docs/homework_instructions.md) for more detailed instructions on submitting homework assignments.
+
+For the full policy on grades, see [this document](docs/grades.md). We understand that grades are important for you for several reasons. But try not to focus too much on them. You will have a better learning experience and in general, you'll be happier in life if you focus more on learning the material well. 
+For the grading scheme we wish we could use [this](https://youtu.be/HdHlfiOAJyE?t=3771).
+
+**Late policy**
+
+Assignments will be due at 11:59 PM on the due date.
+If you cannot make this due date, you may use a "late token".
+Each student will have 4 late tokens for the entire semester, which we will track. 
+No action is required on your part to use the tokes, just make sure that you have a sufficient number if you are planning on using them.
+
+For example, if assignment is due on a Monday at 11:59 pm:
+- Handing it anytime on Tuesday will cost you 1 late token (irrespective of whether it's a holiday).
+- Handing it anytime on Wednesday will cost you 2 late tokens (irrespective of whether it's a holiday).
+
+There is no penalty for using "late tokens", but you will get a mark of 0 on an assignment if you:
+- Use more than 2 late tokens on the assignment.
+- Use more than 4 late tokens across all assignments.
+
+<!-- If you are working in a pair, you both must have late tokens remaining. -->
+
+We will post solutions 48-hours after the due date.
+
+### Lecture recordings 
+
+This is an in-person class, and we do not livestream or make recordings available by default. If you miss a class, you can catch up by reviewing the lecture notes and talking to your peers. Students who were absent for approved reasons (e.g., illness, jury duty) can be given access to existing lecture recordings (when available), but please note that these will be from previous course instances. It is the student's responsibility to make sure they are keeping up with the most up-to-date material, which will be the one included in the notes. 
+
+<!-- 
+**Process to request access:** If you miss a class for a legitimate reason, please contact our course coordinator at cpsc330-admin@cs.ubc.ca and provide appropriate documentation (e.g., a doctor's note if you are seriously ill). Your request will be reviewed, and approval may take time. Please remember that relying on recordings is not an effective way to stay on top of the course material. Regular attendance is essential for success.
+ -->
+
+### Use of Generative AI in the course
+
+You may use generative AI tools (e.g., ChatGPT, Claude, Gemini) in this course, but you must use them **responsibly**. Remember, you are here to learn. These tools can speed up tasks (e.g., brainstorming, debugging, clarifying concepts), but they can also short-circuit your learning if misused (e.g., copy-pasting solutions without understanding them).
+
+**Key policies**
+
+- **Work must be your own:** All assessments must reflect your own thinking unless otherwise specified. Submitting AI-generated work without understanding it is academic dishonesty.
+- If you use GenAI on an assessment:
+    - **Cite it:** Name the tool (e.g., “ChatGPT”).
+    - **Annotate it:** Briefly explain how you used it (e.g., "I asked ChatGPT for a simple explanation of cross-validation. I compared its response with my notes, clarified one detail about data splitting, and wrote my own explanation.").
+	- **If your instructor suspects overuse**, you may be asked to explain your work orally. If you cannot, penalties will apply.
+	- **Do not share sensitive content:** Never paste into AI tools student information (names, IDs, personal data). In addition, do not paste course assessments (assignments, iClicker questions, exam questions) directly to generative AI tools for completion. These materials are copyrighted, and feeding them into such tools may result in redistributing them in ways we don't intend.
+	- **For group work**, all team members must know about and agree to any generative AI use. The group is collectively responsible for ensuring the final work complies with this policy.
+      
+Failure to follow these rules will be treated as a violation of [UBC's academic integrity policy](https://academicintegrity.ubc.ca/).
+
+Finally, always ask yourself: Is this tool helping me learn, or harming my learning? Use it to support, not substitute, your effort.
+
+### Midterms
+
+There will be midterms in CPSC 330 and they will be conducted in the CBTF via self-reservation over a multi-day period.
+The CBTF (computer based testing facility) is designed to enhance the student’s writing experience by providing them with a familiar, secure testing environment with quick access to technical support, as well as support from their instructor for common access issues.
+
+#### Centre for Accessibility (CfA) Exam Accommodations
+
+ Students who are registered with the Centre for Accessibility (CfA) with exam accommodations listed below will need to write all of their assessments in the Computer-Based Testing Facility (CBTF).
+ For a full list of CfA accommodations that can be met at the CfA, [please see the CBTF page](https://cbtf.ubc.ca/students/accommodations).
+
+If you have an accommodation that is not listed above, you will write your assessments with the CfA and will need to book a time by their deadline.
+Please do not book any assessments with the CfA if you are expected to write in the CBTF, as the CfA will cancel the exam booking and ask you to book it yourself with the CBTF.
+If you have any concerns about your accommodations being met in the CBTF, please reach out to your Accessibility Advisor.
+
+### Final exam
+
+The final exam is scheduled for the exam period and is comprehensive, covering the material taught over the course of the semester. **A score of 40% or more in the final exam is required to pass the course (along with other requirements listed above).**
+
+## Academic concessions
+
+UBC has a [policy on academic concession](https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend." To request an academic concession, please write to the course coordinator (cpsc330-admin@cs.ubc.ca), with your section instructor copied in the email. Additional documentation might be requested. We will review your situation and determine whether to approve the concession, and if approved, the appropriate steps to follow. Please note that when possible (short term occurrences) tokens should be used as the default concession mechanism for assignments.
+
+## Code of conduct
+
+- If you plan to engage in non-course-related activity in lecture (Facebook, YouTube, chatting with friends, etc), please sit in the last two rows of the room to avoid distracting your classmates.
+- Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission. **This includes copy/pasting material into AI prompts**.
+- Do not photograph or record lectures (audio or video) without permission.
+- If you commit to working with a partner on an assignment, do your fair share of the work.
+- If you have a problem or complaint, let the instructor(s) know immediately. Maybe we can fix it!
+- During the exam period, do not disclose, discuss, or share any part of the exam with any other individual, except as directly permitted or required by the course instructors. This includes discussion in person, online, or through any electronic means. Violation of this will result in academic penalties, which may include failure of the exam or failure of the course.  
+
+## Land acknowledgement 
+
+UBC’s Point Grey Campus is located on the traditional, ancestral, and unceded territory of the xwməθkwəy̓əm (Musqueam) people. The land it is situated on has always been a place of learning for the Musqueam people, who for millennia have passed on their culture, history, and traditions from one generation to the next on this site.
+
+It’s important that this recognition of Musqueam territory and our relationship with the Musqueam people does not appear as just a formality. Take a moment to appreciate the meaning behind the words we use:
+
+**TRADITIONAL** recognizes lands traditionally used and/or occupied by the Musqueam people or other First Nations in other parts of the country.
+
+**ANCESTRAL** recognizes land that is handed down from generation to generation.
+
+**UNCEDED** refers to land that was not turned over to the Crown (government) by a treaty or other agreement.
+
+**As you proceed through your journey at UBC, take some time to learn about the history of this land and to honour its original inhabitants.**
+
+
