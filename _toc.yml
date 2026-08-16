@@ -1,0 +1,103 @@
+format: jb-book
+root: README
+
+chapters:
+  # - file: course-logistics
+  #   title: Course Logistics
+  #   sections:
+  #     - file: syllabus
+  #     - title: About CPSC 330
+  #       sections:
+  #         - file: learning-objectives
+  #         - file: docs/330_vs_340
+  #     - title: Setup
+  #       sections:
+  #         - file: docs/git_installation
+  #         - file: docs/setup
+  #         - file: docs/homework_instructions
+  #     - title: Resources
+  #       sections:
+  #         - file: docs/faq
+  #         - file: docs/grades
+  #         - file: docs/asking_for_help
+  #         - file: docs/python_notes
+  #         - file: docs/resources
+  #     - file: docs/README
+  - file: lectures/notes/README.md
+    title: Notes
+    sections:
+      - file: lectures/notes/01_intro
+      - file: lectures/notes/02_terminology-decision-trees
+      - file: lectures/notes/03_ml-fundamentals
+      - file: lectures/notes/04_kNNs-SVM-RBF
+      - file: lectures/notes/05_preprocessing-pipelines
+      - file: lectures/notes/06_column-transformer-text-feats
+      - file: lectures/notes/07_linear-models
+      - file: lectures/notes/08_hyperparameter-optimization
+      - file: lectures/notes/09_classification-metrics
+      - file: lectures/notes/10_regression-metrics
+      - file: lectures/notes/11_ensembles.ipynb
+      - file: lectures/notes/12_feat-importances.ipynb
+      - file: lectures/notes/13_feature-engineering-selection.ipynb
+      - file: lectures/notes/14_K-Means.ipynb
+      - file: lectures/notes/15_DBSCAN-hierarchical.ipynb
+      - file: lectures/notes/16_recommender-systems.ipynb
+      - file: lectures/notes/17_natural-language-processing.ipynb
+      - file: lectures/notes/18_Intro-to-LLMs.ipynb
+      - file: lectures/notes/19_intro_to_computer-vision.ipynb
+      - file: lectures/notes/20_time-series.ipynb
+      - file: lectures/notes/21_survival-analysis.ipynb
+      - file: lectures/notes/22_communication.ipynb
+      - file: lectures/notes/23_ethics.md
+      - file: lectures/notes/24_deployment-conclusion.ipynb
+  - file: lectures/Firas/README.md
+    title: Slides
+    sections:
+      - file: lectures/Firas/class01.md
+        title: Lecture 1
+      - file: lectures/Firas/class02.md
+        title: Lecture 2
+      - file: lectures/Firas/class03.md
+        title: Lecture 3
+      - file: lectures/Firas/class04.md
+        title: Lecture 4
+      - file: lectures/Firas/class05.md
+        title: Lecture 5
+      - file: lectures/Firas/class06.md
+        title: Lecture 6
+      - file: lectures/Firas/class07.md
+        title: Lecture 7
+      - file: lectures/Firas/class08.md
+        title: Lecture 8
+      - file: lectures/Firas/class09.md
+        title: Lecture 9
+      - file: lectures/Firas/class10.md
+        title: Lecture 10
+      - file: lectures/Firas/class11.md
+        title: Lecture 11
+      - file: lectures/Firas/class12.md
+        title: Lecture 12
+      - file: lectures/Firas/class13.md
+        title: Lecture 13
+      - file: lectures/Firas/class14.md
+        title: Lecture 14
+      - file: lectures/Firas/class15.md
+        title: Lecture 15
+      - file: lectures/Firas/class16.md
+        title: Lecture 16
+      - file: lectures/Firas/class17.md
+        title: Lecture 17
+      - file: lectures/Firas/class18.md
+        title: Lecture 18
+      - file: lectures/Firas/class19.md
+        title: Lecture 19
+      - file: lectures/Firas/class20.md
+        title: Lecture 20
+      - file: lectures/Firas/class21.md
+        title: Lecture 21
+      - file: lectures/Firas/class22.md
+        title: Lecture 22
+      - file: lectures/Firas/class23.md
+        title: Lecture 23
+      - file: lectures/Firas/class24.md
+        title: Lecture 24
