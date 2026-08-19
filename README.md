@@ -20,7 +20,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 ### Course co-ordinator
 
-- Carol Feng [cpsc330-admin@cs.ubc.ca](mailto:cpsc330-admin@cs.ubc.ca), please reach out to the course co-ordinator for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, this will help us keep track of emails.
+- Carol Feng ([cpsc330-admin@cs.ubc.ca](mailto:cpsc330-admin@cs.ubc.ca)), please reach out to the course co-ordinator for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, this will help us keep track of emails.
 
 ### TAs
 
