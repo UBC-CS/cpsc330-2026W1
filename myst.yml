@@ -24,8 +24,8 @@ project:
           children:
             - file: learning-objectives.md
             - file: docs/330_vs_340.md
-        - url: https://us.prairielearn.com/pl/course_instance/215839/assessment/2682686
-          title: PrairieLearn
+        # - url: https://us.prairielearn.com/pl/course_instance/215839/assessment/2682686
+        #   title: PrairieLearn
         - url: https://us.prairietest.com
           title: PrairieTest
         - title: Setup
@@ -41,67 +41,155 @@ project:
             - file: docs/python_notes.ipynb
             - file: docs/resources.md
         - file: docs/README.md
-
-    - title: Textbook - Part 1
+    - url: https://ubc-cs.github.io/cpsc330-book/
+      title: Course Textbook
+    - file: content/Firas/README.md
+      title: Classes
       children:
-        - url: https://ubc-cs.github.io/cpsc330-book/book/01_intro.html
-          title: Chapter 1 (linked)
-        - file: content/classes/class0
-          title: Chapter 1 (embedded)
-        # - url: https://ubc-cs.github.io/cpsc330-book/book/02_terminology-decision-trees.ipynb
-        #   title: Chapter
-        # - url: https://ubc-cs.github.io/cpsc330-book/book/03_ml-fundamentals.ipynb
-        #   title: Chapter
-        # - url: https://ubc-cs.github.io/cpsc330-book/book/04_kNNs-SVM-RBF.ipynb
-        #   title: Chapter
-        # - url: https://ubc-cs.github.io/cpsc330-book/book/05_preprocessing-pipelines.ipynb
-        #   title: Chapter
-        # - url: https://ubc-cs.github.io/cpsc330-book/book/06_column-transformer-text-feats.ipynb
-        #   title: Chapter
-    # - title: Part 2
-    #   children:
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/07_linear-models.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/08_hyperparameter-optimization.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/09_classification-metrics.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/10_regression-metrics.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/11_ensembles.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/12_feat-importances.ipynb
-    #       title: Chapter
-    # - title: Part 3
-    #   children:
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/13_feature-engineering-selection.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/14_K-Means.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/15_DBSCAN-hierarchical.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/16_recommender-systems.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/17_natural-language-processing.ipynb
-    #       title: Chapter
-    # - title: Part 4
-    #   children:
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/18_Intro-to-LLMs.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/19_intro_to_computer-vision.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/20_time-series.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/21_survival-analysis.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/22_communication.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/23_ethics.md
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/24_deployment-conclusion.ipynb
-    #       title: Chapter
-    #     - url: https://ubc-cs.github.io/cpsc330-book/book/final-exam-review-guiding-question.ipynb
-    #       title: Chapter
+        - file: content/classes/class01.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class02.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class03.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class04.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class05.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class06.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class07.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class08.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class09.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class10.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class11.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class12.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class13.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class14.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class15.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class16.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class17.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class18.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class19.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class20.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class21.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class22.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class23.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
+        - file: content/classes/class24.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
     - file: content/tutorials/README.md
       title: Tutorials
       children:
@@ -109,7 +197,7 @@ project:
           title: Tutorial 0
         - file: content/tutorials/01_decision_boundaries.ipynb
           title: Tutorial 1
-        - file: content/tutorials/02_ML_fundamentals.md
+        - file: content/tutorials/02_ML_fundamentals.ipynb
           title: Tutorial 2
         - file: content/tutorials/03_Preprocessing_extra_practice.ipynb
           title: Tutorial 3
@@ -119,94 +207,6 @@ project:
           title: Tutorial 6
         - file: content/tutorials/08_Time_series.ipynb
           title: Tutorial 8
-    - file: content/Firas/README.md
-      title: Class Meetings
-      children:
-        - file: content/classes/class1A
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Lecture 1 Slides
-        - file: content/classes/class1B
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-02.html
-            title: Lecture 2 Slides
-        - file: content/classes/class1C
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-03.html
-            title: Lecture 3
-          - url: https://firasm.github.io/cpsc330-slides/slides-04.html
-            title: Lecture 4
-
-        - file: content/classes/class2B
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-05.html
-            title: Lecture 5
-          - url: https://firasm.github.io/cpsc330-slides/slides-06.html
-            title: Lecture 6
-        - file: content/classes/class2C
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-07.html
-            title: Lecture 7
-          - url: https://firasm.github.io/cpsc330-slides/slides-08.html
-            title: Lecture 8
-
-        - file: content/classes/class3A
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-09.html
-            title: Lecture 9
-          - url: https://firasm.github.io/cpsc330-slides/slides-10.html
-            title: Lecture 10
-        - file: content/classes/class3B
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-11.html
-            title: Lecture 11
-          - url: https://firasm.github.io/cpsc330-slides/slides-12.html
-            title: Lecture 12        
-        - file: content/classes/class3C
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-13.html
-            title: Lecture 13        
-
-        - file: content/classes/class4A
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-14.html
-            title: Lecture 14
-          - url: https://firasm.github.io/cpsc330-slides/slides-15.html
-            title: Lecture 15
-        - file: content/classes/class4B
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-16.html
-            title: Lecture 16
-          - url: https://firasm.github.io/cpsc330-slides/slides-17.html
-            title: Lecture 17
-        - file: content/classes/class5A
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-16.html
-            title: Lecture 16
-          - url: https://firasm.github.io/cpsc330-slides/slides-17.html
-            title: Lecture 17
-        - file: content/classes/class5B
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-19.html
-            title: Lecture 19
-          - url: https://firasm.github.io/cpsc330-slides/slides-20.html
-            title: Lecture 20
-        - file: content/classes/class5C
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-21.html
-            title: Lecture 21
-        - file: content/classes/class6A
-          children:
-          - file: content/notes/23_ethics.md
-            title: Lecture 23
-          - url: https://firasm.github.io/cpsc330-slides/slides-22.html
-            title: Lecture 22
-          # - url: https://firasm.github.io/cpsc330-slides/slides-24.html
-          #   title: Lecture 24
-        # - file: content/classes/class6B
-        #   children:
-        #   - url: https://firasm.github.io/cpsc330-slides/slides-24.html
-        #     title: Lecture 24
     - file: LICENSE.md
       title: Attribution
 site:

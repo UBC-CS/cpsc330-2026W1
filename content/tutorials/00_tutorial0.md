@@ -1,1 +1,1 @@
-# Tutorial 0 - Introductions!
+# Tutorial 0 - Introductions and Environment Setup!

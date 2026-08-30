@@ -1,4 +1,17 @@
-## Class Slides
+## Additional Material
+
+### Section 101 (Firas)
+
+
+### Section 102 (Varada)
+
+...
+
+
+### Section 103 (Mehrdad)
+
+...
+
 
 <!-- 
 <div>
