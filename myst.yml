@@ -124,91 +124,116 @@ project:
     - file: content/Firas/README.md
       title: Class Meetings
       children:
-        - file: content/classes/class1A
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Lecture 1 Slides
-        - file: content/classes/class1B
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-02.html
-            title: Lecture 2 Slides
-        - file: content/classes/class1C
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-03.html
-            title: Lecture 3
-          - url: https://firasm.github.io/cpsc330-slides/slides-04.html
-            title: Lecture 4
+        - file: content/classes/class01
+        - file: content/classes/class02
+        - file: content/classes/class03
+        - file: content/classes/class04
+        - file: content/classes/class05
+        - file: content/classes/class06
+        - file: content/classes/class07
+        - file: content/classes/class08
+        - file: content/classes/class09
+        - file: content/classes/class10
+        - file: content/classes/class11
+        - file: content/classes/class12
+        - file: content/classes/class13
+        - file: content/classes/class14
+        - file: content/classes/class15
+        - file: content/classes/class16
+        - file: content/classes/class17
+        - file: content/classes/class18
+        - file: content/classes/class19
+        - file: content/classes/class20
+        - file: content/classes/class21
+        - file: content/classes/class22
+        - file: content/classes/class23
+        - file: content/classes/class24
 
-        - file: content/classes/class2B
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-05.html
-            title: Lecture 5
-          - url: https://firasm.github.io/cpsc330-slides/slides-06.html
-            title: Lecture 6
-        - file: content/classes/class2C
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-07.html
-            title: Lecture 7
-          - url: https://firasm.github.io/cpsc330-slides/slides-08.html
-            title: Lecture 8
-
-        - file: content/classes/class3A
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-09.html
-            title: Lecture 9
-          - url: https://firasm.github.io/cpsc330-slides/slides-10.html
-            title: Lecture 10
-        - file: content/classes/class3B
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-11.html
-            title: Lecture 11
-          - url: https://firasm.github.io/cpsc330-slides/slides-12.html
-            title: Lecture 12        
-        - file: content/classes/class3C
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-13.html
-            title: Lecture 13        
-
-        - file: content/classes/class4A
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-14.html
-            title: Lecture 14
-          - url: https://firasm.github.io/cpsc330-slides/slides-15.html
-            title: Lecture 15
-        - file: content/classes/class4B
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-16.html
-            title: Lecture 16
-          - url: https://firasm.github.io/cpsc330-slides/slides-17.html
-            title: Lecture 17
-        - file: content/classes/class5A
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-16.html
-            title: Lecture 16
-          - url: https://firasm.github.io/cpsc330-slides/slides-17.html
-            title: Lecture 17
-        - file: content/classes/class5B
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-19.html
-            title: Lecture 19
-          - url: https://firasm.github.io/cpsc330-slides/slides-20.html
-            title: Lecture 20
-        - file: content/classes/class5C
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-21.html
-            title: Lecture 21
-        - file: content/classes/class6A
-          children:
-          - file: content/notes/23_ethics.md
-            title: Lecture 23
-          - url: https://firasm.github.io/cpsc330-slides/slides-22.html
-            title: Lecture 22
-          # - url: https://firasm.github.io/cpsc330-slides/slides-24.html
-          #   title: Lecture 24
-        # - file: content/classes/class6B
+        # - file: content/classes/class1A
         #   children:
-        #   - url: https://firasm.github.io/cpsc330-slides/slides-24.html
-        #     title: Lecture 24
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Chapter 1 Slides
+        # - file: content/classes/class1B
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-02.html
+        #     title: Chapter 2 Slides
+        # - file: content/classes/class1C
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-03.html
+        #     title: Chapter 3
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-04.html
+        #     title: Chapter 4
+
+        # - file: content/classes/class2B
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-05.html
+        #     title: Chapter 5
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-06.html
+        #     title: Chapter 6
+        # - file: content/classes/class2C
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-07.html
+        #     title: Chapter 7
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-08.html
+        #     title: Chapter 8
+
+        # - file: content/classes/class3A
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-09.html
+        #     title: Chapter 9
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-10.html
+        #     title: Chapter 10
+        # - file: content/classes/class3B
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-11.html
+        #     title: Chapter 11
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-12.html
+        #     title: Chapter 12        
+        # - file: content/classes/class3C
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-13.html
+        #     title: Chapter 13        
+
+        # - file: content/classes/class4A
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-14.html
+        #     title: Chapter 14
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-15.html
+        #     title: Chapter 15
+        # - file: content/classes/class4B
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-16.html
+        #     title: Chapter 16
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-17.html
+        #     title: Chapter 17
+        # - file: content/classes/class5A
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-16.html
+        #     title: Chapter 16
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-17.html
+        #     title: Chapter 17
+        # - file: content/classes/class5B
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-19.html
+        #     title: Chapter 19
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-20.html
+        #     title: Chapter 20
+        # - file: content/classes/class5C
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-21.html
+        #     title: Chapter 21
+        # - file: content/classes/class6A
+        #   children:
+        #   - file: content/notes/23_ethics.md
+        #     title: Chapter 23
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-22.html
+        #     title: Chapter 22
+        #   # - url: https://firasm.github.io/cpsc330-slides/slides-24.html
+        #   #   title: Chapter 24
+        # # - file: content/classes/class6B
+        # #   children:
+        # #   - url: https://firasm.github.io/cpsc330-slides/slides-24.html
+        # #     title: Chapter 24
     - file: LICENSE.md
       title: Attribution
 site:

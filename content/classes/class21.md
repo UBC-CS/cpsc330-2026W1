@@ -1,4 +1,4 @@
-# Class Meeting 5C
+# Class Meeting 21
 
 Below are the required videos for today's class (none), as well as slides from class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
@@ -16,12 +16,21 @@ Calling Bulls--t 4.1: Right Censoring
 </div>
 :::
 
-## Class Slides
+## Additional Material
 
-### Lecture 21
+### Section 101 (Firas)
 
 <div>
 <iframe src="https://firasm.github.io/cpsc330-slides/slides-21.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
 [Download the Slides from today](../../files/Lec21.pdf)
+
+### Section 102 (Varada)
+
+...
+
+
+### Section 103 (Mehrdad)
+
+...

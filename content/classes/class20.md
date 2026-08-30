@@ -1,5 +1,5 @@
 
-# Class Meeting 5B
+# Class Meeting 20
 
 Below are the required videos for today's class, as well as slides from class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
@@ -16,12 +16,21 @@ We will leave the website open even after the course is over for a reasonable nu
 </div>
 :::
 
-## Class Slides
+## Additional Material
 
-### Lecture 20
+### Section 101 (Firas)
 
 <div>
 <iframe src="https://firasm.github.io/cpsc330-slides/slides-20.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
 [Download the Slides from today](../../files/Lec20.pdf)
+
+### Section 102 (Varada)
+
+...
+
+
+### Section 103 (Mehrdad)
+
+...

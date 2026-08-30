@@ -1,4 +1,4 @@
-# Class Meeting 6A
+# Class Meeting 22
 
 Below are the required videos for today's class (none), as well as slides from class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
@@ -26,17 +26,9 @@ We recommend watching the rest of the Chapter 6 videos also - 6 short videos, 47
 </div>
 :::
 
-## Pre-lecture 23 Videos
+## Additional Material
 
-There are no Lecture 23 videos!
-
-## Pre-lecture 24 Videos
-
-There are no lecture 24 videos!
-
-## Class Slides
-
-### Lecture 22
+### Section 101 (Firas)
 
 <div>
 <iframe src="https://firasm.github.io/cpsc330-slides/slides-22.html" width="100%" height="600px" frameBorder="0"> </iframe>
@@ -44,18 +36,11 @@ There are no lecture 24 videos!
 
 [Download the Slides from today](../../files/Lec22.pdf)
 
-### Lecture 23
+### Section 102 (Varada)
 
-<div>
-<iframe src="https://firasm.github.io/cpsc330-slides/slides-23.html" width="100%" height="600px" frameBorder="0"> </iframe>
-</div>
+...
 
-[Download the Slides from today](../../files/Lec23.pdf)
 
-### Lecture 24 - Deployment
+### Section 103 (Mehrdad)
 
-<div>
-<iframe src="https://firasm.github.io/cpsc330-slides/slides-24.html" width="100%" height="600px" frameBorder="0"> </iframe>
-</div>
-
-[Download the Slides from today](../../files/Lec24.pdf)
+...

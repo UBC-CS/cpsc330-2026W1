@@ -16,7 +16,9 @@ Below are the assigned videos for this class.
 </div>
 :::
 
-## Class Slides
+## Additional Material
+
+### Section 101 (Firas)
 
 <div>
 <iframe src="https://firasm.github.io/cpsc330-slides/slides-01.html" width="100%" height="600px" frameBorder="0"> </iframe>
@@ -24,3 +26,11 @@ Below are the assigned videos for this class.
 
 [Download the Slides from today](../../files/Lec01.pdf)
 
+### Section 102 (Varada)
+
+...
+
+
+### Section 103 (Mehrdad)
+
+...

@@ -57,20 +57,21 @@ Below are the assigned videos for Lecture 8
 </div>
 :::
 
-## Class Slides
+## Additional Material
 
-### Lecture 07
-
-<div>
-<iframe src="https://firasm.github.io/cpsc330-slides/slides-07.html" width="100%" height="600px" frameBorder="0"> </iframe>
-</div>
-
-[Download the Slides from today](../../files/Lec07.pdf)
-
-### Lecture 08
+### Section 101 (Firas)
 
 <div>
 <iframe src="https://firasm.github.io/cpsc330-slides/slides-08.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
 [Download the Slides from today](../../files/Lec08.pdf)
+
+### Section 102 (Varada)
+
+...
+
+
+### Section 103 (Mehrdad)
+
+...
