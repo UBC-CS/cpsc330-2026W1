@@ -7,7 +7,7 @@ We will leave the website open even after the course is over for a reasonable nu
 
 ## Pre-lecture 17 Videos
 
-Below are the assigned videos for Lecture 16.
+Below are the assigned videos for Lecture 17.
  
 :::{dropdown} 1. What is NLP?
     :open:

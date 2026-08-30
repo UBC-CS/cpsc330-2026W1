@@ -1,4 +1,4 @@
-# Class Meeting 1B
+# Class Meeting 2
 
 Below are the required videos for today's class, as well as slides from class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.

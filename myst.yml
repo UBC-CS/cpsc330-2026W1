@@ -125,29 +125,149 @@ project:
       title: Class Meetings
       children:
         - file: content/classes/class01
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class02
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class03
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class04
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class05
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class06
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class07
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class08
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class09
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class10
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class11
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class12
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class13
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class14
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class15
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class16
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class17
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class18
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class19
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class20
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class21
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class22
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class23
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
         - file: content/classes/class24
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 102)
 
         # - file: content/classes/class1A
         #   children:
