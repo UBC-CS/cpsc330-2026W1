@@ -24,8 +24,8 @@ project:
           children:
             - file: learning-objectives.md
             - file: docs/330_vs_340.md
-        - url: https://us.prairielearn.com/pl/course_instance/215839/assessment/2682686
-          title: PrairieLearn
+        # - url: https://us.prairielearn.com/pl/course_instance/215839/assessment/2682686
+        #   title: PrairieLearn
         - url: https://us.prairietest.com
           title: PrairieTest
         - title: Setup
@@ -41,13 +41,15 @@ project:
             - file: docs/python_notes.ipynb
             - file: docs/resources.md
         - file: docs/README.md
+    - url: https://ubc-cs.github.io/cpsc330-book/
+      title: Course Textbook
 
-    - title: Textbook - Part 1
-      children:
-        - url: https://ubc-cs.github.io/cpsc330-book/book/01_intro.html
-          title: Chapter 1 (linked)
-        - file: content/classes/class0
-          title: Chapter 1 (embedded)
+    # - title: Textbook - Part 1
+    #   children:
+        # - url: https://ubc-cs.github.io/cpsc330-book/book/01_intro.html
+        #   title: Chapter 1 (linked)
+        # - file: content/classes/class0
+        #   title: Chapter 1 (embedded)
         # - url: https://ubc-cs.github.io/cpsc330-book/book/02_terminology-decision-trees.ipynb
         #   title: Chapter
         # - url: https://ubc-cs.github.io/cpsc330-book/book/03_ml-fundamentals.ipynb

@@ -1,13 +1,13 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: CPSC 330 Applied Machine Learning 2026S1
+title: CPSC 330 Applied Machine Learning 2026W1
 author: Many!
 logo: lectures/img/UBC-CS-logo.png
 exclude_patterns: ["hw", "exams"]
 
 repository:
-  url: https://github.com/UBC-CS/cpsc330-2026S1
+  url: https://github.com/UBC-CS/cpsc330-2026W1
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

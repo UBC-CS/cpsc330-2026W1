@@ -8,13 +8,15 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 ### **Classes (lectures)**:
 
-| Section      | Day     | Time          | Zoom     |
-|--------------|---------|---------------|----------|
-| CPSC 330 911 | MWF     | 10:00 - 12:20 | DMP 310  |
+| Section | Instructor                                                    | Contact                                           | When                   | Where                                                        |
+|---------|---------------------------------------------------------------|---------------------------------------------------|------------------------|--------------------------------------------------------------|
+| 101     | [Firas Moosvi](https://firas.moosvi.com/)                     | [Ed Discussion](https://canvas.ubc.ca/courses/190981/external_tools/69381?display=borderless) | Tue & Thu, 15:30–16:50 | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
+| 102     | [Varada Kolhatkar](https://kvarada.github.io/)                | [kvarada@cs.ubc.ca](mailto:kvarada@cs.ubc.ca)     | Tue & Thu, 11:00–12:20 | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
+| 103     | [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) | [moveisi@cs.ubc.ca](mailto:moveisi@cs.ubc.ca)     | Tue & Thu, 9:30–10:50  | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
 
 ### **Tutorials**:
 
-In the summer, students will attend *two* tutorials each week, the first on T/W, and the second on Th/F.
+<!-- In the summer, students will attend *two* tutorials each week, the first on T/W, and the second on Th/F. -->
 
 Tutorials for this course will be conducted by TAs, who will guide you through additional exercises and demos on the content covered each week. A bonus of up to 2% will be added to your final grade for attending tutorials.
 
@@ -39,10 +41,12 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 
 **Instructors**:
 
-- [Firas Moosvi](https://firas.moosvi.com), OH: after class Monday and Wednesday in DMP 310
+- [Firas Moosvi](https://firas.moosvi.com)
+- [Varada Kolhatkar](https://kvarada.github.io/)
+- [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi)
 
 ### Course coordinator
-- Emily Fuchs, please reach out to the course coordinator as a private message on Ed Discussion for: admin questions, extensions, academic concessions etc. 
+- Carol Wang, please reach out to the course coordinator by email `cpsc330-admin@cs.ubc.ca` for: admin questions, extensions, academic concessions etc. 
 
 ### TAs
 
@@ -53,7 +57,7 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 
 **Waitlists**:
 
-CPSC 330 is a very fast-paced course and students who register in the course late have a tendency to struggle greatly and are rarely able to catch-up. In 2026S1, we are expecting that all students who are registered on the waitlist by 3 PM on May 15th will have an opportunity to take the course. This also means that **the registration into the course will be closed by the end of the day on May 15th, and no further registrations will be permitted.** Of course, students will still be able to drop the course until UBC's official Add/Drop date. We hope this will allow all students to have the best chance at success in this course!
+CPSC 330 is a very fast-paced course and students who register in the course late have a tendency to struggle greatly and are rarely able to catch-up. In 2026W1, we are expecting that all students who are registered on the waitlist by 3 PM on May 15th will have an opportunity to take the course. This also means that **the registration into the course will be closed by the end of the day on May 15th, and no further registrations will be permitted.** Of course, students will still be able to drop the course until UBC's official Add/Drop date. We hope this will allow all students to have the best chance at success in this course!
 
 **The instructors have no control over the waitlist order and cannot help you bypass the waiting list.**
 
