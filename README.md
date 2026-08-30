@@ -100,6 +100,25 @@ We'll be developing lecture notes directly in this repository. So if you check t
 | Dec 01 | Ethics | 📹 (Optional but highly recommended) [Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total); [The ethics of data science](http://jtleek.com/ads2020/week-15.html) | new |
 | Dec 03 | Model deployment and conclusion |  | new |
 
+## Tutorial Schedule
+
+| Week | Dates     | Tutorial Content                        | Special Notes |
+|------|-----------|-----------------------------------------|---------------|
+| 1    | Sept 8-13 | Tu0: Introductions & Environment Setup  | Optional, not for credit              |
+| 2    | .         |                                         |               |
+| 3    | .         |                                         |               |
+| 4    | .         |                                         |               |
+| 5    | .         |                                         |               |
+| 6    | .         |                                         |               |
+| 7    | .         |                                         |               |
+| 8    | .         |                                         |               |
+| 9    | .         |                                         |               |
+| 10   | .         |                                         |               |
+| 11   | .         |                                         |               |
+| 12   | .         |                                         |               |
+| 13   | .         |                                         |               |
+| 14   | .         |                                         |               |
+
 ## Reference Material
 
 <details>
