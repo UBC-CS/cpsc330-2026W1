@@ -41,9 +41,9 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 
 **Instructors**:
 
-- [Firas Moosvi](https://firas.moosvi.com)
-- [Varada Kolhatkar](https://kvarada.github.io/)
-- [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi)
+- [Firas Moosvi (Sec 101)](https://firas.moosvi.com)
+- [Varada Kolhatkar (Sec 102)](https://kvarada.github.io/)
+- [Mehrdad Oveisi (Sec 103)](https://www.cs.ubc.ca/people/mehrdad-oveisi)
 
 ### Course coordinator
 - Carol Wang, please reach out to the course coordinator by email `cpsc330-admin@cs.ubc.ca` for: admin questions, extensions, academic concessions etc. 
