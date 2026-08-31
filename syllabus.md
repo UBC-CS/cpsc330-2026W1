@@ -57,7 +57,9 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 
 **Waitlists**:
 
-CPSC 330 is a very fast-paced course and students who register in the course late have a tendency to struggle greatly and are rarely able to catch-up. In 2026W1, we are expecting that all students who are registered on the waitlist by 3 PM on May 15th will have an opportunity to take the course. This also means that **the registration into the course will be closed by the end of the day on May 15th, and no further registrations will be permitted.** Of course, students will still be able to drop the course until UBC's official Add/Drop date. We hope this will allow all students to have the best chance at success in this course!
+CPSC 330 is a very fast-paced course and students who register in the course late have a tendency to struggle greatly and are rarely able to catch-up. In 2026W1, we are expecting that all students registered on open waitlists by 3 PM on Wednesday September 16th will have an opportunity to take the course. If you have been offered a spot in the course, we encourage you to accept (or decline) it as soon as possible so we can clear the waitlists and allow everyone to take the course. 
+
+Registration into the course will be closed by the end of the day on Wednesday September 16th, and no further registrations into the course will be permitted. Of course, students will still be able to drop the course until UBC’s official Add/Drop date. We hope this will allow all students to have the best chance at success in this course!
 
 **The instructors have no control over the waitlist order and cannot help you bypass the waiting list.**
 
