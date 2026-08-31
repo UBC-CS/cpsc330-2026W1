@@ -102,22 +102,22 @@ We'll be developing lecture notes directly in this repository. So if you check t
 
 ## Tutorial Schedule
 
-| Week | Dates     | Tutorial Content                        | Special Notes |
-|------|-----------|-----------------------------------------|---------------|
-| 1    | Sept 8-13 | Tu0: Introductions & Environment Setup  | Optional, not for credit              |
-| 2    | .         |                                         |               |
-| 3    | .         |                                         |               |
-| 4    | .         |                                         |               |
-| 5    | .         |                                         |               |
-| 6    | .         |                                         |               |
-| 7    | .         |                                         |               |
-| 8    | .         |                                         |               |
-| 9    | .         |                                         |               |
-| 10   | .         |                                         |               |
-| 11   | .         |                                         |               |
-| 12   | .         |                                         |               |
-| 13   | .         |                                         |               |
-| 14   | .         |                                         |               |
+| Week | Dates     | Tutorial Content                       | Special Notes            |
+|------|-----------|----------------------------------------|--------------------------|
+| 1    | Sept 8-13 | Tu0: Introductions & Environment Setup | Optional, not for credit |
+| 2    | .         |                                        |                          |
+| 3    | .         |                                        |                          |
+| 4    | .         |                                        |                          |
+| 5    | .         |                                        |                          |
+| 6    | .         |                                        |                          |
+| 7    | .         |                                        |                          |
+| 8    | .         |                                        |                          |
+| 9    | .         |                                        |                          |
+| 10   | .         |                                        |                          |
+| 11   | .         |                                        |                          |
+| 12   | .         |                                        |                          |
+| 13   | .         |                                        |                          |
+| 14   | .         |                                        |                          |
 
 ## Reference Material
 
