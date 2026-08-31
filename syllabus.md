@@ -153,7 +153,7 @@ Finally, always ask yourself: Is this tool helping me learn, or harming my learn
 ### Midterms
 
 There will be midterms in CPSC 330 and they will be conducted in the ORCA via self-reservation over a multi-day period.
-The ORCA (computer based testing facility) is designed to enhance the student’s writing experience by providing them with a familiar, secure testing environment with quick access to technical support, as well as support from their instructor for common access issues.
+The [ORCA](https://orca.ubc.ca) (open resource centre for assessments) is designed to enhance the student’s writing experience by providing them with a familiar, secure testing environment with quick access to technical support, as well as support from their instructor for common access issues.
 
 #### Centre for Accessibility (CfA) Exam Accommodations
 
