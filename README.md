@@ -44,8 +44,25 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 
 ## Deliverable due dates (tentative)
 
-Usually the homework assignments will be due on Mondays (except next week) and will be released on Tuesdays. We'll also add the due dates in the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). If you find inconsistencies in due dates, follow the due date in the Calendar. For this course, we'll assume that the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html) is always right!
+<!-- Usually the homework assignments will be due on Mondays (except next week) and will be released on Tuesdays. We'll also add the due dates in the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). If you find inconsistencies in due dates, follow the due date in the Calendar. For this course, we'll assume that the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html) is always right! -->
 
+| Assessment     | Due date              |
+|----------------|-----------------------|
+| hw1            | Sept 09, 11:59 pm     |
+| hw2            | Sept 16, 11:59 pm     |
+| Syllabus quiz  | Sept 19, 11:59 pm     |
+| hw3            | Sept 29, 11:59 pm     |
+| hw4            | Oct 06, 11:59 pm      |
+| **Midterm 1**  | Oct 15-17 (ORCA)      |
+| hw5            | Oct 27, 11:59 pm      |
+| hw6            | Nov 03, 11:59 pm      |
+| **Midterm 2**  | Nov 13-15 (ORCA)      |
+| hw7            | November 17, 11:59 pm |
+| hw8            | November 24, 11:59 pm |
+| hw9            | December 05, 11:59 pm |
+| **Final exam** | TBA                   |
+
+<!-- 
 | Assessment     | Due date              | Where to find?                                                                     | Where to submit?                                                    |
 | -------------- | --------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | hw1            | Sept 09, 11:59 pm     | [GitHub repo](https://github.com/new?template_name=hw1&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/29785)               |
@@ -53,14 +70,15 @@ Usually the homework assignments will be due on Mondays (except next week) and w
 | Syllabus quiz  | Sept 19, 11:59 pm     | PrairieLearn (access through [Canvas tab](https://canvas.ubc.ca/courses/170662))   | (access through [Canvas tab](https://canvas.ubc.ca/courses/170662)) |
 | hw3            | Sept 29, 11:59 pm     | [GitHub repo](https://github.com/new?template_name=hw3&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/29785)               |
 | hw4            | Oct 06, 11:59 pm      | [GitHub repo](https://github.com/new?template_name=hw4&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/29785)               |
-| **Midterm 1**  | Oct 15 and Oct 16     | PrairieLearn (CBTF, in person)                                                     | PrairieLearn (CBTF, in person)                                      |
+| **Midterm 1**  | Oct 15 and Oct 16     | PrairieLearn (ORCA, in person)                                                     | PrairieLearn (ORCA, in person)                                      |
 | hw5            | Oct 27, 11:59 pm      | [GitHub repo](https://github.com/new?template_name=hw5&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/29785)               |
 | hw6            | Nov 03, 11:59 pm      | [GitHub repo](https://github.com/new?template_name=hw6&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/29785)               |
-| **Midterm 2**  | Nov 13 and Nov 14     | PrairieLearn (CBTF, in person)                                                     | PrairieLearn (CBTF, in person)                                      |
+| **Midterm 2**  | Nov 13 and Nov 14     | PrairieLearn (ORCA, in person)                                                     | PrairieLearn (ORCA, in person)                                      |
 | hw7            | November 17, 11:59 pm | [GitHub repo](https://github.com/new?template_name=hw7&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/29785)               |
 | hw8            | November 24, 11:59 pm | [GitHub repo](https://github.com/new?template_name=hw8&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/29785)               |
 | hw9            | December 05, 11:59 pm | [GitHub repo](https://github.com/new?template_name=hw9&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/29785)               |
-| **Final exam** | TBA                   | PrairieLearn (CBTF, in person)                                                     | PrairieLearn (CBTF, in person)                                      |
+| **Final exam** | TBA                   | PrairieLearn (ORCA, in person)                                                     | PrairieLearn (ORCA, in person)                                      | 
+-->
 
 ## Lecture schedule (tentative)
 

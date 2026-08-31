@@ -75,13 +75,11 @@ The grading scheme for the course is tentatively (to be confirmed), as follows:
 
 | Component     | Weight |
 |---------------|--------|
-| Learning Logs | 10%    |
-| Midterm 1     | 15%    |
-| Midterm 2     | 15%    |
-| Midterm 3     | 15%    |
-| Assignments   | 20%    |
-| Final         | 25%    |
-| Tutorial participation | up to 2% bonus    | in person attendance to 10 tutorials |
+| Participation | 5%     |
+| Homework      | 15%    |
+| Midterm 1     | 25%    |
+| Midterm 2     | 25%    |
+| Final         | 30%    |
 
 **All students must satisfy ALL the following conditions to pass the course:**
 - Pass the Assignments component with an average grade of at least 40%,
@@ -95,7 +93,7 @@ The grading scheme for the course is tentatively (to be confirmed), as follows:
 The iClicker participation grade will mainly consider your engagement rather than the accuracy of your responses. Nevertheless, these questions are intended to facilitate your learning, so please make an earnest effort when providing your answers. Participation in 80% of the classes is enough to receive the full participation grade - this gives you some wiggle room if you happen to miss a class or two. 
 -->
 
-### Assignments
+### Homework Assignments
 
 The plan is that most of the assignments will contribute equally towards the overall Assignments grade.
 <!-- However, this is not finalized yet.
@@ -154,17 +152,17 @@ Finally, always ask yourself: Is this tool helping me learn, or harming my learn
 
 ### Midterms
 
-There will be midterms in CPSC 330 and they will be conducted in the CBTF via self-reservation over a multi-day period.
-The CBTF (computer based testing facility) is designed to enhance the student’s writing experience by providing them with a familiar, secure testing environment with quick access to technical support, as well as support from their instructor for common access issues.
+There will be midterms in CPSC 330 and they will be conducted in the ORCA via self-reservation over a multi-day period.
+The ORCA (computer based testing facility) is designed to enhance the student’s writing experience by providing them with a familiar, secure testing environment with quick access to technical support, as well as support from their instructor for common access issues.
 
 #### Centre for Accessibility (CfA) Exam Accommodations
 
- Students who are registered with the Centre for Accessibility (CfA) with exam accommodations listed below will need to write all of their assessments in the Computer-Based Testing Facility (CBTF).
- For a full list of CfA accommodations that can be met at the CfA, [please see the CBTF page](https://cbtf.ubc.ca/students/accommodations).
+ Students who are registered with the Centre for Accessibility (CfA) with exam accommodations listed below will need to write all of their assessments in the Computer-Based Testing Facility (ORCA).
+ For a full list of CfA accommodations that can be met at the CfA, [please see the ORCA page](https://ORCA.ubc.ca/students/accommodations).
 
 If you have an accommodation that is not listed above, you will write your assessments with the CfA and will need to book a time by their deadline.
-Please do not book any assessments with the CfA if you are expected to write in the CBTF, as the CfA will cancel the exam booking and ask you to book it yourself with the CBTF.
-If you have any concerns about your accommodations being met in the CBTF, please reach out to your Accessibility Advisor.
+Please do not book any assessments with the CfA if you are expected to write in the ORCA, as the CfA will cancel the exam booking and ask you to book it yourself with the ORCA.
+If you have any concerns about your accommodations being met in the ORCA, please reach out to your Accessibility Advisor.
 
 ### Final exam
 
