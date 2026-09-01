@@ -34,9 +34,10 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 
 - [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html)
 - [Course GitHub page](https://github.com/UBC-CS/cpsc330-2026W1)
-- [Course book](https://ubc-cs.github.io/cpsc330-2026W1)
+- [Course logistics](https://ubc-cs.github.io/cpsc330-2026W1)
+- [Course notes](https://ubc-cs.github.io/cpsc330-book/)
 - [Canvas](https://canvas.ubc.ca/courses/170662)
-- [Piazza](https://piazza.com/ubc.ca/winterterm12026/cpsc330/home)
+- [Ed Discussion](https://piazza.com/ubc.ca/winterterm12026/cpsc330/home)
 - iClicker Cloud Section 101 and 103 (through Canvas), [iClicker Cloud Section 102](https://join.iclicker.com/FZMQ)
 - [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
 - [Syllabus / administrative info](syllabus.md)
@@ -94,7 +95,7 @@ Each instructor will use their own slides and/or Jupyter notebooks based on thes
 |-- | --- | --- | --- | --- |
 | | Sep 8 | _UBC Imagine Day - no class_ |  |  |
 | 1 | Sep 10 | Course intro | 📹 Pre-watch: [1.0](https://youtu.be/-1hTcS5ZE4w) | n/a |
-| 2 | Sep 15 | From Data to a first model  | 📹 Pre-watch: [2.1](https://youtu.be/YNT8n4cXu4A), [2.2](https://youtu.be/6eT5cLL-2Vc), [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E) | less depth |
+| 2 | Sep 15 | From data to a first model  | 📹 Pre-watch: [2.1](https://youtu.be/YNT8n4cXu4A), [2.2](https://youtu.be/6eT5cLL-2Vc), [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E) | less depth |
 | 3 | Sep 17 | ML fundamentals | 📹 Pre-watch: [3.1](https://youtu.be/iS2hsRRlc2M), [3.2](https://youtu.be/h2AEobwcUQw), [3.3](https://youtu.be/4cv8VYonepA), [3.4](https://youtu.be/Ihay8yE5KTI) | similar |
 | 4 | Sep 22 | Similarity-based models | 📹 Pre-watch: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg), [4.3](https://youtu.be/IRGbqi5S9gQ), [4.4](https://youtu.be/ic_zqOhi020) | less depth |
 | 5 | Sep 24 | Preprocessing, `sklearn` pipelines | 📹 Pre-watch: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8), [5.3](https://youtu.be/nWTce7WJSd4), [5.4](https://youtu.be/2mJ9rAhMMl0) | more depth |
