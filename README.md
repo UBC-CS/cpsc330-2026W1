@@ -4,6 +4,19 @@
 
 This is the course homepage for CPSC 330: Applied Machine Learning at the University of British Columbia. You are looking at the current version (Sep-Dec 2026).
 
+## Important links
+
+- [Syllabus](syllabus.md)
+- [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html)
+- [Course GitHub page](https://github.com/UBC-CS/cpsc330-2026W1)
+- [Course logistics](https://ubc-cs.github.io/cpsc330-2026W1)
+- [Course notes](https://ubc-cs.github.io/cpsc330-book/)
+- [Canvas](https://canvas.ubc.ca/courses/170662)
+- [Ed Discussion](https://edstem.org/us/courses/104703/discussion)
+- [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
+- [Syllabus / administrative info](syllabus.md)
+- [Other course documents](https://github.com/UBC-CS/cpsc330-2026W1/tree/main/docs)
+
 ## Syllabus
 
 The syllabus is available [here](syllabus.md). Please read it carefully to understand all rules and expectations of this course. The content of the syllabus is tested in a quiz, to be completed by Sep 19, 11:59 pm.
@@ -30,17 +43,6 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), non-software content licensed under [the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/). See the [license file](LICENSE.md) for more information.
 
-## Important links
-
-- [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html)
-- [Course GitHub page](https://github.com/UBC-CS/cpsc330-2026W1)
-- [Course logistics](https://ubc-cs.github.io/cpsc330-2026W1)
-- [Course notes](https://ubc-cs.github.io/cpsc330-book/)
-- [Canvas](https://canvas.ubc.ca/courses/170662)
-- [Ed Discussion](https://edstem.org/us/courses/104703/discussion)
-- [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
-- [Syllabus / administrative info](syllabus.md)
-- [Other course documents](https://github.com/UBC-CS/cpsc330-2026W1/tree/main/docs)
 
 ## Deliverable due dates (tentative)
 
