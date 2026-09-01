@@ -86,15 +86,17 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 
 This course will be run in a semi flipped classroom format. There will be pre-watch videos for many lectures, at least in the first half of the course. All the videos are available on [YouTube](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM) and are posted in the schedule below. Try to watch the assigned videos before the corresponding lecture. During the lecture, we'll summarize the important points from the videos and focus on demos, iClickers, and Q&A.
 
-We'll be developing lecture notes directly in this repository. So if you check them before the lecture, they might be in a draft form. Once they are finalized, they will be posted in the [Course Jupyter book](https://ubc-cs.github.io/cpsc330-2026W1/README.html).
+You’ll find the lecture notes in textbook form here: [CPSC 330 textbook](https://ubc-cs.github.io/cpsc330-book/).
+
+Each instructor will use their own slides and/or Jupyter notebooks based on these lecture notes. 
 
 | Chp# | Date | Topic | Assigned videos | vs. CPSC 340 |
 |-- | --- | --- | --- | --- |
 | | Sep 8 | _UBC Imagine Day - no class_ |  |  |
 | 1 | Sep 10 | Course intro | 📹 Pre-watch: [1.0](https://youtu.be/-1hTcS5ZE4w) | n/a |
-| 2 | Sep 15 | Decision trees | 📹 Pre-watch: [2.1](https://youtu.be/YNT8n4cXu4A), [2.2](https://youtu.be/6eT5cLL-2Vc), [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E) | less depth |
+| 2 | Sep 15 | From Data to a first model  | 📹 Pre-watch: [2.1](https://youtu.be/YNT8n4cXu4A), [2.2](https://youtu.be/6eT5cLL-2Vc), [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E) | less depth |
 | 3 | Sep 17 | ML fundamentals | 📹 Pre-watch: [3.1](https://youtu.be/iS2hsRRlc2M), [3.2](https://youtu.be/h2AEobwcUQw), [3.3](https://youtu.be/4cv8VYonepA), [3.4](https://youtu.be/Ihay8yE5KTI) | similar |
-| 4 | Sep 22 | $k$-NNs and SVM with RBF kernel | 📹 Pre-watch: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg), [4.3](https://youtu.be/IRGbqi5S9gQ), [4.4](https://youtu.be/ic_zqOhi020) | less depth |
+| 4 | Sep 22 | Similarity-based models | 📹 Pre-watch: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg), [4.3](https://youtu.be/IRGbqi5S9gQ), [4.4](https://youtu.be/ic_zqOhi020) | less depth |
 | 5 | Sep 24 | Preprocessing, `sklearn` pipelines | 📹 Pre-watch: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8), [5.3](https://youtu.be/nWTce7WJSd4), [5.4](https://youtu.be/2mJ9rAhMMl0) | more depth |
 | 6 | Sep 29 | More preprocessing, `sklearn` `ColumnTransformer`, text features | 📹 Pre-watch: [6.1](https://youtu.be/to2mukSyvLk), [6.2](https://youtu.be/hteVvLwrWZ4) | more depth |
 | 7 | Oct 01 | Linear models | 📹 Pre-watch: [7.1](https://youtu.be/HXd1U2q4VFA), [7.2](https://youtu.be/56L5z_t22qE), [7.3](https://youtu.be/_OAK5KiGLg0) | less depth |
@@ -143,8 +145,8 @@ We'll be developing lecture notes directly in this repository. So if you check t
   <summary>Click to expand!</summary>
     
 ### Books
+* [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) by Andreas C. Mueller and Sarah Guido. 
 * [A Course in Machine Learning (CIML)](http://ciml.info/) by Hal Daumé III 
-* Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Mueller and Sarah Guido.
 * [An Introduction to Statistical
 Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
 * [The Elements of Statistical Learning (ESL)](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
@@ -153,7 +155,7 @@ Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
 * [Artificial Intelligence 2E: Foundations of Computational Agents](https://artint.info/3e/html/ArtInt3e.html) (2023) by David Poole and Alan Mackworth (of UBC!).
 
 ### Online courses
-
+- [Applied Machine Learning with Python](https://amueller.github.io/aml/index.html)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) (Andrew Ng's famous Coursera course)
 - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) online course from Bloomberg.
