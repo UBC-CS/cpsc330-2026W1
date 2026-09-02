@@ -46,7 +46,7 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 - [Mehrdad Oveisi (Sec 103)](https://www.cs.ubc.ca/people/mehrdad-oveisi)
 
 ### Course coordinator
-- Carol Wang, please reach out to the course coordinator by email `cpsc330-admin@cs.ubc.ca` for: admin questions, extensions, academic concessions etc. 
+- Carol Feng, please reach out to the course coordinator by email `cpsc330-admin@cs.ubc.ca` for: admin questions, extensions, academic concessions etc. 
 
 ### TAs
 
