@@ -115,8 +115,8 @@ Each instructor will use their own slides and/or Jupyter notebooks based on thes
 | 17 | Nov 05 | Neural networks and computer vision |  | less depth |
 |  | Nov 9-11 | _UBC Midterm break - no class_ |  |  |
 |  | Nov 12-14 | _Midterm 2 - no class_ |  |  |
-| 18 | Nov 15 | Text data, intro to LLMs | 📹 Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY), [16.2](https://youtu.be/7W5Q8gzNPBc) | new |
-| 19 | Nov 17 | Time series data | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
+| 18 | Nov 17 | Text data, intro to LLMs | 📹 Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY), [16.2](https://youtu.be/7W5Q8gzNPBc) | new |
+| 19 | Nov 19 | Time series data | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
 | 20 | Nov 24 | Survival analysis | 📹 (Optional but highly recommended) [Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw) | new |
 | 21 | Nov 26 | Communication | 📹 (Optional but highly recommended) [Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total); [Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min) | new |
 | 22 | Dec 01 | Ethics | 📹 (Optional but highly recommended) [Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total); [The ethics of data science](http://jtleek.com/ads2020/week-15.html) | new |
