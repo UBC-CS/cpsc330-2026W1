@@ -76,7 +76,7 @@ Please do not delete the question cells or move the questions around. This will 
 
 **You must ensure that all your code output (values, tables, figures, etc.) is displayed in the notebook.** For example, if you are required to calculate some value, it is not sufficient to just store the value to a variable, nor is it sufficient to have a `print(value)` in your code - the print code must actually be run and the notebook saved, so that the output is shown on the screen when the notebook is rendered. Likewise, if there are tests (e.g. `assert` statements) provided in the code, make sure these are left in so we can see the output of the tests. This allows the TAs to see your results without running your code. Failure to display all output will result in a deduction of marks.
 
-**If you are unsure whether your report is rendering properly, please view your submission in Gradescope. This is exactly how your TA will see it.**
+**If you are unsure whether your report is rendering properly, please view your submission in PrairieLearn. This is exactly how your TA will see it.**
 
 ### Figures
 
