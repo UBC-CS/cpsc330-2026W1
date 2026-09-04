@@ -4,6 +4,19 @@
 
 This is the course homepage for CPSC 330: Applied Machine Learning at the University of British Columbia. You are looking at the current version (Sep-Dec 2026).
 
+## Important links
+
+- [Syllabus](syllabus.md)
+- [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html)
+- [Course GitHub page](https://github.com/UBC-CS/cpsc330-2026W1)
+- [Course logistics](https://ubc-cs.github.io/cpsc330-2026W1)
+- [Course notes](https://ubc-cs.github.io/cpsc330-book/)
+- [Canvas](https://canvas.ubc.ca/courses/170662)
+- [Ed Discussion](https://edstem.org/us/courses/104703/discussion)
+- [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
+- [Syllabus / administrative info](syllabus.md)
+- [Other course documents](https://github.com/UBC-CS/cpsc330-2026W1/tree/main/docs)
+
 ## Syllabus
 
 The syllabus is available [here](syllabus.md). Please read it carefully to understand all rules and expectations of this course. The content of the syllabus is tested in a quiz, to be completed by Sep 19, 11:59 pm.
@@ -30,17 +43,6 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), non-software content licensed under [the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/). See the [license file](LICENSE.md) for more information.
 
-## Important links
-
-- [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html)
-- [Course GitHub page](https://github.com/UBC-CS/cpsc330-2026W1)
-- [Course book](https://ubc-cs.github.io/cpsc330-2026W1)
-- [Canvas](https://canvas.ubc.ca/courses/170662)
-- [Piazza](https://piazza.com/ubc.ca/winterterm12026/cpsc330/home)
-- iClicker Cloud Section 101 and 103 (through Canvas), [iClicker Cloud Section 102](https://join.iclicker.com/FZMQ)
-- [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
-- [Syllabus / administrative info](syllabus.md)
-- [Other course documents](https://github.com/UBC-CS/cpsc330-2026W1/tree/main/docs)
 
 ## Deliverable due dates (tentative)
 
@@ -86,15 +88,17 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 
 This course will be run in a semi flipped classroom format. There will be pre-watch videos for many lectures, at least in the first half of the course. All the videos are available on [YouTube](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM) and are posted in the schedule below. Try to watch the assigned videos before the corresponding lecture. During the lecture, we'll summarize the important points from the videos and focus on demos, iClickers, and Q&A.
 
-We'll be developing lecture notes directly in this repository. So if you check them before the lecture, they might be in a draft form. Once they are finalized, they will be posted in the [Course Jupyter book](https://ubc-cs.github.io/cpsc330-2026W1/README.html).
+You’ll find the lecture notes in textbook form here: [CPSC 330 textbook](https://ubc-cs.github.io/cpsc330-book/).
+
+Each instructor will use their own slides and/or Jupyter notebooks based on these lecture notes. 
 
 | Chp# | Date | Topic | Assigned videos | vs. CPSC 340 |
 |-- | --- | --- | --- | --- |
 | | Sep 8 | _UBC Imagine Day - no class_ |  |  |
 | 1 | Sep 10 | Course intro | 📹 Pre-watch: [1.0](https://youtu.be/-1hTcS5ZE4w) | n/a |
-| 2 | Sep 15 | Decision trees | 📹 Pre-watch: [2.1](https://youtu.be/YNT8n4cXu4A), [2.2](https://youtu.be/6eT5cLL-2Vc), [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E) | less depth |
+| 2 | Sep 15 | From data to a first model  | 📹 Pre-watch: [2.1](https://youtu.be/YNT8n4cXu4A), [2.2](https://youtu.be/6eT5cLL-2Vc), [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E) | less depth |
 | 3 | Sep 17 | ML fundamentals | 📹 Pre-watch: [3.1](https://youtu.be/iS2hsRRlc2M), [3.2](https://youtu.be/h2AEobwcUQw), [3.3](https://youtu.be/4cv8VYonepA), [3.4](https://youtu.be/Ihay8yE5KTI) | similar |
-| 4 | Sep 22 | $k$-NNs and SVM with RBF kernel | 📹 Pre-watch: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg), [4.3](https://youtu.be/IRGbqi5S9gQ), [4.4](https://youtu.be/ic_zqOhi020) | less depth |
+| 4 | Sep 22 | Similarity-based models | 📹 Pre-watch: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg), [4.3](https://youtu.be/IRGbqi5S9gQ), [4.4](https://youtu.be/ic_zqOhi020) | less depth |
 | 5 | Sep 24 | Preprocessing, `sklearn` pipelines | 📹 Pre-watch: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8), [5.3](https://youtu.be/nWTce7WJSd4), [5.4](https://youtu.be/2mJ9rAhMMl0) | more depth |
 | 6 | Sep 29 | More preprocessing, `sklearn` `ColumnTransformer`, text features | 📹 Pre-watch: [6.1](https://youtu.be/to2mukSyvLk), [6.2](https://youtu.be/hteVvLwrWZ4) | more depth |
 | 7 | Oct 01 | Linear models | 📹 Pre-watch: [7.1](https://youtu.be/HXd1U2q4VFA), [7.2](https://youtu.be/56L5z_t22qE), [7.3](https://youtu.be/_OAK5KiGLg0) | less depth |
@@ -111,8 +115,8 @@ We'll be developing lecture notes directly in this repository. So if you check t
 | 17 | Nov 05 | Neural networks and computer vision |  | less depth |
 |  | Nov 9-11 | _UBC Midterm break - no class_ |  |  |
 |  | Nov 12-14 | _Midterm 2 - no class_ |  |  |
-| 18 | Nov 15 | Text data, intro to LLMs | 📹 Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY), [16.2](https://youtu.be/7W5Q8gzNPBc) | new |
-| 19 | Nov 17 | Time series data | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
+| 18 | Nov 17 | Text data, intro to LLMs | 📹 Pre-watch: [16.1](https://youtu.be/GTC_iLPCjdY), [16.2](https://youtu.be/7W5Q8gzNPBc) | new |
+| 19 | Nov 19 | Time series data | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
 | 20 | Nov 24 | Survival analysis | 📹 (Optional but highly recommended) [Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw) | new |
 | 21 | Nov 26 | Communication | 📹 (Optional but highly recommended) [Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total); [Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min) | new |
 | 22 | Dec 01 | Ethics | 📹 (Optional but highly recommended) [Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total); [The ethics of data science](http://jtleek.com/ads2020/week-15.html) | new |
@@ -122,20 +126,19 @@ We'll be developing lecture notes directly in this repository. So if you check t
 
 | Week | Dates     | Tutorial Content                       | Special Notes            |
 |------|-----------|----------------------------------------|--------------------------|
-| 1    | Sept 8-13 | Tu0: Introductions & Environment Setup | Optional, not for credit |
-| 2    | .         |                                        |                          |
-| 3    | .         |                                        |                          |
-| 4    | .         |                                        |                          |
-| 5    | .         |                                        |                          |
-| 6    | .         |                                        |                          |
-| 7    | .         |                                        |                          |
-| 8    | .         |                                        |                          |
-| 9    | .         |                                        |                          |
-| 10   | .         |                                        |                          |
-| 11   | .         |                                        |                          |
-| 12   | .         |                                        |                          |
-| 13   | .         |                                        |                          |
-| 14   | .         |                                        |                          |
+| 1    | Sep 09-11 | Tu0: Introductions & Environment Setup | Optional, not for credit |
+| 2    | Sep 16-18 | Tu1: Decision Boundaries               |                          |
+| 3    | Sep 23-25 | Tu2: ML Fundamentals                   |                          |
+| 4    | Sep 30-Oct 2 | Tu3: Linear Models                  |                          |
+| 5    | Oct 07-09 | Tu3: Preprocessing Extra Practice      |                          |
+| 6    | Oct 14-16 | Midterm 1 Prep                         |                          |
+| 7    | Oct 21-23 | Tu5: Ensembles                         |                          |
+| 8    | Oct 28-30 | Tu6: Clustering                        |                          |
+| 9    | Nov 04-06 | Midterm 2 Prep                         |                          |
+| 10   | Nov 12-13 | Tutorials used as TA Office Hours      | All students are welcome to any tutorial on Thu and Fri |
+| 11   | Nov 18-20 | Tu7: LLMs                              |                          |
+| 12   | Nov 25-27 | Tu8: Time Series                       |                          |
+| 13   | Dec 02-04 | Tu10: Fairness                         |                          |
 
 ## Reference Material
 
@@ -143,8 +146,8 @@ We'll be developing lecture notes directly in this repository. So if you check t
   <summary>Click to expand!</summary>
     
 ### Books
+* [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) by Andreas C. Mueller and Sarah Guido. 
 * [A Course in Machine Learning (CIML)](http://ciml.info/) by Hal Daumé III 
-* Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Mueller and Sarah Guido.
 * [An Introduction to Statistical
 Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
 * [The Elements of Statistical Learning (ESL)](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
@@ -153,7 +156,7 @@ Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
 * [Artificial Intelligence 2E: Foundations of Computational Agents](https://artint.info/3e/html/ArtInt3e.html) (2023) by David Poole and Alan Mackworth (of UBC!).
 
 ### Online courses
-
+- [Applied Machine Learning with Python](https://amueller.github.io/aml/index.html)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) (Andrew Ng's famous Coursera course)
 - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) online course from Bloomberg.
