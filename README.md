@@ -126,20 +126,19 @@ Each instructor will use their own slides and/or Jupyter notebooks based on thes
 
 | Week | Dates     | Tutorial Content                       | Special Notes            |
 |------|-----------|----------------------------------------|--------------------------|
-| 1    | Sept 8-13 | Tu0: Introductions & Environment Setup | Optional, not for credit |
-| 2    | .         |                                        |                          |
-| 3    | .         |                                        |                          |
-| 4    | .         |                                        |                          |
-| 5    | .         |                                        |                          |
-| 6    | .         |                                        |                          |
-| 7    | .         |                                        |                          |
-| 8    | .         |                                        |                          |
-| 9    | .         |                                        |                          |
-| 10   | .         |                                        |                          |
-| 11   | .         |                                        |                          |
-| 12   | .         |                                        |                          |
-| 13   | .         |                                        |                          |
-| 14   | .         |                                        |                          |
+| 1    | Sep 09-11 | Tu0: Introductions & Environment Setup | Optional, not for credit |
+| 2    | Sep 16-18 | Tu1: Decision Boundaries               |                          |
+| 3    | Sep 23-25 | Tu2: ML Fundamentals                   |                          |
+| 4    | Sep 30-Oct 2 | Tu3: Linear Models                  |                          |
+| 5    | Oct 07-09 | Tu3: Preprocessing Extra Practice      |                          |
+| 6    | Oct 14-16 | Midterm 1 Prep                         |                          |
+| 7    | Oct 21-23 | Tu5: Ensembles                         |                          |
+| 8    | Oct 28-30 | Tu6: Clustering                        |                          |
+| 9    | Nov 04-06 | Midterm 2 Prep                         |                          |
+| 10   | Nov 12-13 | Tutorials used as TA Office Hours      | All students are welcome to any tutorial on Thu and Fri |
+| 11   | Nov 18-20 | Tu7: LLMs                              |                          |
+| 12   | Nov 25-27 | Tu8: Time Series                       |                          |
+| 13   | Dec 02-04 | Tu10: Fairness                         |                          |
 
 ## Reference Material
 
