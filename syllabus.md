@@ -166,7 +166,7 @@ If you have any concerns about your accommodations being met in the ORCA, please
 
 ### Final exam
 
-The final exam is scheduled for the exam period and is comprehensive, covering the material taught over the course of the semester. **A score of 40% or more in the final exam is required to pass the course (along with other requirements listed above).**
+The final exam is scheduled for the exam period and is comprehensive, covering the material taught over the course of the semester.
 
 ## Academic concessions
 
