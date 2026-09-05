@@ -1,213 +1,162 @@
 # Setting up your coding environment
 
-This guide will help you get ready to run lecture notebooks and complete homework assignments on your own computer.
+## Working in PrairieLearn
 
-You'll need three main tools:
-1. **Git:** to download and update course materials from GitHub
-2. **Python & Conda:** to run code and manage packages
-3. **JupyterLab:** or **VS Code** as your main coding environment
+You can complete assignments in the **PrairieLearn workspace**, which provides the coding environment in your browser. Follow the workspace instructions in each assignment. **No local installation is needed for this workflow.** You can also read the [course book](https://ubc-cs.github.io/cpsc330-book/) in your browser.
 
-## Quick start (TL;DR)
+The rest of this guide is optional: use it if you want to run lecture notebooks and demos or work on assignments on your own computer. It assumes you are comfortable opening a terminal and navigating between folders.
 
-If you already know what you're doing, here are the essential commands:
+## Local setup: install the tools once
 
-```bash
-# Clone the repo
-git clone https://github.com/UBC-CS/cpsc330-2026S1.git
-cd cpsc330-2026S1
+We use **uv** to manage Python and packages, and **JupyterLab** or **VS Code** to run notebooks. The lecture environment files live in the [cpsc330-book repository](https://github.com/UBC-CS/cpsc330-book). The `cpsc330-2026W1` repository contains course logistics and these instructions.
 
-# Add conda-forge channel (Miniconda only)
-conda config --add channels conda-forge
+Use **PowerShell on Windows** and your usual **Terminal on macOS or Linux**. After installing uv, the commands below are the same on all three platforms. You do not need WSL, Conda, or a separate Python installation for these instructions.
 
-# Create environment
-conda env create -f cpsc330env.yml
+### Install uv
 
-# (Optional) Test activating/deactivating the environment
-conda activate cpsc330
-conda deactivate
+Use the command for your operating system from the [official uv installation guide](https://docs.astral.sh/uv/getting-started/installation/).
 
-# Start JupyterLab from base
-jupyter lab
+**Windows (PowerShell):**
 
-# Or start VS Code from base
-code .
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
-> ⚠️ Normally, you will launch JupyterLab or VS Code from `(base)` and then select the `cpsc330` environment inside those tools. Activating it in the terminal is only needed for testing or if you want to install additional packages in the environment later on.
+**macOS or Linux:**
 
-## `WSL`: Optional but Recommended Step For Windows
-If you are using Windows, you may want to consider using WSL to run Linux inside Windows. This is especially useful if you are having difficulties setting up your system. For more information, please search for ["Windows Subsystem for Linux" (`WSL`)](https://www.google.com/search?q=windows+subsystem+for+linux). One recommended Linux distribution is Ubuntu (22.04 LTS or higher). Installing `WSL` is easy on Windows 11, which allows [installation directly from the Microsoft Store](https://www.bleepingcomputer.com/news/microsoft/windows-11-can-now-install-wsl-from-the-microsoft-store). If that does not work for you, here is an alternative installation method covered in [this online tutorial](https://www.groovypost.com/howto/install-windows-subsystem-for-linux-in-windows-11).
-
-NOTE 1: Although the course staff are happy to help if you have any technical difficulties, support cannot be guaranteed for `WSL` or Linux in general. However, if you feel that you can manage it yourself, you are encouraged to do so because the ability to use Linux is certainly a plus. Of course, AI tools should be able to resolve many of the potential issues you may have when using `WSL`.
-
-NOTE 2: If you are using macOS, you can ignore this tip, as macOS is already a Unix-compliant system.
-
-
-## Step 1: Install Git
-
-We use Git to manage and download course material from GitHub. Follow the [Git setup instructions](https://ubc-cs.github.io/cpsc330-2026S1/docs/git-installation).
-
-Once installed:
-
-```bash
-git clone https://github.com/UBC-CS/cpsc330-2026S1.git
-cd cpsc330-2026S1
+```sh
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-To update later:
-```bash
+Close and reopen your terminal after installation, then check:
+
+```text
+uv --version
+```
+
+You should see something like this:
+
+```text
+uv 0.12.5 (210d1f678 2026-08-14 aarch64-apple-darwin)
+```
+
+Your version number, build date, and platform details may differ. Seeing a uv version confirms that the command is available in your terminal.
+
+### Install Git and choose an editor
+
+Install [Git](git_installation.md) if you want to clone and update the book repository or use Git for assignment work. Git is optional if you only work from assignment ZIP files.
+
+- **JupyterLab:** installed with the course environment; no separate installation step is needed.
+- **VS Code:** install [VS Code](https://code.visualstudio.com/) and Microsoft's **Python** and **Jupyter** extensions.
+
+## Run lecture notebooks and demos locally
+
+In a terminal, navigate to the folder where you want to keep the book, then run these commands one line at a time:
+
+```text
+git clone https://github.com/UBC-CS/cpsc330-book.git
+cd cpsc330-book
+uv sync --locked
+```
+
+uv uses the supplied `.python-version` file to select Python 3.12, downloading it if needed, and installs the packages into a `.venv` folder. The first installation may take a while because the course includes large machine-learning libraries.
+
+The `pyproject.toml` file specifies the dependencies, and `uv.lock` records their resolved versions. `--locked` checks that these files agree without changing the lockfile. Keep both files as supplied by the course.
+
+Choose one of the following ways to open your notebooks. These steps also apply to an assignment folder after you have created its environment.
+
+### Option A: JupyterLab
+
+From the folder containing `pyproject.toml` and `uv.lock`, run:
+
+```text
+uv run --locked jupyter lab
+```
+
+Open a notebook in the browser window that appears. Choose **Python 3 (ipykernel)** if prompted for a kernel. Keep the terminal running while you work; when finished, save your notebooks and press **Ctrl+C** in the terminal to stop the server, confirming shutdown if prompted.
+
+Use this launch command each time so JupyterLab runs in that folder's environment. No manual environment activation is required.
+
+### Option B: VS Code
+
+1. In VS Code, choose **File → Open Folder** and open `cpsc330-book` (or the extracted assignment folder).
+2. Open a notebook and click **Select Kernel** at the top right. Choose **Select Another Kernel**, if shown, then **Python Environments** and the `.venv` belonging to this folder.
+3. Run cells with **Shift+Enter**.
+
+If you also work with Python scripts, use **Python: Select Interpreter** in the Command Palette to select the same environment. Notebook kernel selection is a separate step.
+
+The interpreter paths are:
+
+| Platform | Interpreter inside the project folder |
+| --- | --- |
+| Windows | `.venv\Scripts\python.exe` |
+| macOS / Linux | `.venv/bin/python` |
+
+If the environment does not appear, make sure `uv sync --locked` completed successfully, then reload the VS Code window. See [uv's Jupyter and VS Code guide](https://docs.astral.sh/uv/guides/integration/jupyter/) for more details.
+
+### Update the lecture materials
+
+From the `cpsc330-book` folder, run:
+
+```text
 git pull
+uv sync --locked
 ```
 
-> ⚠️ Tip: Don't keep personal notes inside this repository. Otherwise, `git pull` may fail due to conflicts. Keep notes in a separate folder/repo.
+Restart any running notebook kernels after updating the environment. Save personal copies of notebooks before editing them; edits to tracked course files can conflict with later updates. If Git reports a conflict, preserve your work and ask for help before discarding changes.
 
+## Work on assignments locally
 
+PrairieLearn remains available if you prefer to work in the browser. For local work, use the assignment's downloadable ZIP and its accompanying instructions.
 
-## Step 2: Install Python and Conda
+1. **Extract the entire ZIP** into a folder of your choice, outside the cloned book and logistics repositories. Keep the notebook and data in their supplied relative locations.
+2. Check that the extracted folder contains `pyproject.toml`, `uv.lock`, and `.python-version`, alongside the notebook and data. These files specify the environment for that assignment. If they are missing, check the assignment instructions or ask the teaching team for the local setup files.
+3. Open a terminal in that folder and run:
 
-We use Python 3.12 (Python 2 is not supported). To manage Python and packages, you'll install a Conda distribution. You have two options:
+   ```text
+   uv sync --locked
+   ```
 
-### Option A (recommended): Miniforge
+4. Launch JupyterLab with `uv run --locked jupyter lab`, or open the assignment folder in VS Code and select **that folder's `.venv`**, as described above.
+5. Save your work and follow the assignment's instructions to upload the required files to PrairieLearn and submit. Files saved on your computer do not automatically appear in PrairieLearn.
 
-- Lightweight installer that defaults to the conda-forge channel (up-to-date, consistent across platforms).
-- Works smoothly on Windows, Linux, and macOS (including Apple Silicon).
+Each assignment has its own environment. Use its supplied environment files even if you have already set up the book environment. You do not need to clone either course repository to use an assignment ZIP that includes these files.
 
-[Download Miniforge here](https://conda-forge.org/download/). Choose the installer for your operating system.
+### Optional: use a private Git repository
 
-### Option B: Miniconda
+You can turn the extracted assignment folder into a **private** Git repository. Where collaboration is permitted by the assignment, share it only with your authorized partners. Keep your notebook and the supplied environment files in version control. Add `.venv/` and `.ipynb_checkpoints/` to `.gitignore`; follow the assignment's guidance about tracking data files.
 
-- The official distribution from Anaconda.
-- Defaults to the defaults channel (stable, but sometimes outdated).
-- Requires one extra step: adding the conda-forge channel.
+Each collaborator clones the private repository, runs `uv sync --locked`, and selects their own local `.venv`. Do not commit or share the `.venv` folder itself.
 
-[Download Miniconda here](https://www.anaconda.com/docs/getting-started/miniconda/main). Choose the installer for your operating system.
+## Check your environment
 
+Run this cell in a notebook opened through JupyterLab or VS Code:
 
+```python
+import sys
+import numpy as np
+import pandas as pd
+import sklearn
+import matplotlib.pyplot as plt
 
-## Step 3: Verify installation
-
-After installation:
-
-- **macOS:** open Terminal (⌘ + Space → type “Terminal”).  
-- **Windows:** open **Anaconda Prompt (miniforge3 or miniconda3)** from the Start Menu.  
-- **Linux:** open your system's terminal (Ctrl+Alt+T).  
-
-You should see `(base)` at the start of your command line prompt: 
-
-```
-(base) yourusername@computer:~$
-```
-
-Check installation:
-
-```bash
-conda --version
-python --version
+print("Python:", sys.version)
+print("Interpreter:", sys.executable)
+print("scikit-learn:", sklearn.__version__)
+plt.plot([0, 1, 2], [0, 1, 4])
+plt.show()
 ```
 
-Expected:
+You should see version information and a small plot. The interpreter path should point inside the `.venv` of the book or assignment folder you are working in.
 
-> conda: recent version (e.g., 24.x.x)  
-> python: 3.12 or greater  
+## Troubleshooting
 
-If you see Python 2.7, reinstall with Python 3.12.
+- **`uv` is not recognized:** restart your terminal (and VS Code if using its terminal). If the problem persists, consult the [uv installation guide](https://docs.astral.sh/uv/getting-started/installation/).
+- **No `pyproject.toml` found:** navigate to the book root or the extracted assignment folder containing the environment files, then rerun the command.
+- **A notebook cannot import a package:** check `sys.executable` using the cell above. Select the correct kernel, run `uv sync --locked` in the corresponding folder, and restart the kernel.
+- **A data file cannot be found:** extract the complete assignment ZIP and preserve its folder structure. For lecture notebooks, follow any data-download instructions in the notebook.
+- **The lockfile is out of date or installation fails:** for the book, first obtain the latest course files with `git pull`. For assignments, use the files supplied with that assignment. Share the error message, operating system, and `uv --version` with the teaching team. Avoid removing dependencies or upgrading packages to work around the error, since that changes the course environment.
 
-
-## Step 4: Configure conda-forge (Miniconda only)
-
-If you installed Miniconda, add the conda-forge channel:
-
-```bash
-conda config --add channels conda-forge
-```
-
-If you installed Miniforge, you can skip this step (it’s already the default).
-
-
-## Step 5: Create the course environment
-
-A virtual environment keeps course packages isolated from other projects.
-
-1. Navigate to the course repo if you are not already there. Make sure `cpsc330env.yml` exists in the repo you cloned:
-```bash
-cd cpsc330-2026S1
-ls 
-```
-
-2. Create the environment.
-```bash
-conda env create -f cpsc330env.yml
-```
-
-3. (Optional) Test activating and deactivating the environment.
-```bash
-conda activate cpsc330
-conda deactivate
-```
-
-Your prompt should return to `(base)` when deactivated.
-
-> ✅ You only need to create the environment once. Normally, you will stay in `(base)` and select the `cpsc330` kernel in JupyterLab or VS Code.
-
-4. Launch JupyterLab (from base environment):
-```bash
-jupyter lab
-```
-
-JupyterLab will open in your browser. At the top-right corner of your notebook, click on the kernel dropdown. Select the kernel named `Python [conda env:cpsc330]`. Now you're running the notebook inside the course environment.
-
----
-
-## Step 6: Using VS Code (alternative to JupyterLab)
-
-Some of you may prefer using [VS Code](https://code.visualstudio.com/) instead of JupyterLab. Both work fine. It's your choice.
-
-### Install VS Code
-
-- [Download from Visual Studio Code](https://code.visualstudio.com/).  
-- Install the **Python** extension and the **Jupyter** extension (search in the Extensions Marketplace inside VS Code).  
-
-### Open the repo in VS Code
-
-- Open VS Code → File → Open Folder → select the cloned `cpsc330-2026S1` folder.  
-- Or in the terminal navigate to `cpsc330-2026S1` and open VS Code:  
-```bash
-code . 
-```
-
-### Select the correct environment
-
-1. Open the Command Palette (⇧⌘P on macOS, Ctrl+Shift+P on Windows/Linux).  
-2. Type **Python: Select Interpreter**.  
-3. Choose the interpreter starting with `conda env:cpsc330`.  
-
-⚠️ If you don't see the interpreter, restart VS Code after creating the environment.
-
-### Running notebooks
-
-- Open any `.ipynb` file from the repo.  
-- At the top right, select the `cpsc330` kernel if it isn’t already selected.  
-- Run cells with **Shift+Enter**.  
-
-
-## Step 7: Troubleshooting
-
-### Errors when creating course environment 
-If `conda env create -f cpsc330env.yml` fails:
-
-- Check the error message and identify the problematic package.  
-- Remove that package line from `cpsc330env.yml`.  
-- Re-run the command.  
-- If needed, install missing packages manually:  
-
-```bash
-conda install packagename
-# or
-pip install packagename
-```
-
-Still stuck? Bring your laptop to office hours or tutorials and get help.
-
+Some demos may require additional software or downloaded models; follow the instructions provided with those demos. If local setup prevents you from working on an assignment, use its PrairieLearn workspace and bring the error to office hours or tutorials.
 
 ## (Optional) Learn JupyterLab and Python
 
@@ -217,7 +166,3 @@ If you're new to JupyterLab and/or Python, here is a short video of an introduct
 <iframe src="https://player.vimeo.com/video/1006820659?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to JupyterLab and Python"></iframe>
 <script src="https://player.vimeo.com/api/player.js"></script>
 </div>
-
-## Credit
-
-These installation instructions are based on [the MDS software installation instructions](https://ubc-mds.github.io/resources_pages/installation_instructions/).
