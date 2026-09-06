@@ -157,12 +157,3 @@ You should see version information and a small plot. The interpreter path should
 - **The lockfile is out of date or installation fails:** for the book, first obtain the latest course files with `git pull`. For assignments, use the files supplied with that assignment. Share the error message, operating system, and `uv --version` with the teaching team. Avoid removing dependencies or upgrading packages to work around the error, since that changes the course environment.
 
 Some demos may require additional software or downloaded models; follow the instructions provided with those demos. If local setup prevents you from working on an assignment, use its PrairieLearn workspace and bring the error to office hours or tutorials.
-
-## (Optional) Learn JupyterLab and Python
-
-If you're new to JupyterLab and/or Python, here is a short video of an introduction to JupyterLab and Python created by one of the instructors of the course for another course that uses similar tooling.
-
-<div class="container youtube">
-<iframe src="https://player.vimeo.com/video/1006820659?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to JupyterLab and Python"></iframe>
-<script src="https://player.vimeo.com/api/player.js"></script>
-</div>
