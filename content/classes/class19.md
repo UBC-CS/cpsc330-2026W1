@@ -1,9 +1,7 @@
 
 # Class Meeting 19
 
-Below are the required videos for today's class, as well as slides from class embedded.
-Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
-We will leave the website open even after the course is over for a reasonable number of years.
+Supporting videos and slides from each section are embedded below.
 
 ## Pre-lecture 19 Videos
 
