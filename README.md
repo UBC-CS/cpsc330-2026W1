@@ -36,7 +36,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 ### Office hours
 
-- Firas: To be announced.
+- Firas: Tuesday and Thursday 5-5:30 PM in DMP 310.
 - Varada: Thursdays, 12:30 PM, ICCS 237.
 - Mehrdad: Tuesdays and Thursdays, 11:00 AM, ICCS 146, for as long as there are questions.
 
