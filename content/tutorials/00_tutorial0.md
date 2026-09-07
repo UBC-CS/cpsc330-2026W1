@@ -15,6 +15,6 @@ To make the most of our time, please do the following before arriving:
    - If you have not finished setting up your environment, use this time to do so.
    - TAs will walk around to help resolve any installation issues you encountered with [setup](../../docs/setup.md).
 
-2. Hands-On: First HW1 Question
+2. Get started on HW1
    - Once your setup is complete, you will work independently on HW1. Your objective is to finish and submit at least one question.
    - TAs will be available to answer questions and help you get started with the assignment and workflow.
