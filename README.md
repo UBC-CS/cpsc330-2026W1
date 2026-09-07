@@ -50,18 +50,17 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 
 | Assessment     | Due date              |
 |----------------|-----------------------|
-| hw1            | Sept 09, 11:59 pm     |
-| hw2            | Sept 16, 11:59 pm     |
-| Syllabus quiz  | Sept 19, 11:59 pm     |
-| hw3            | Sept 29, 11:59 pm     |
-| hw4            | Oct 06, 11:59 pm      |
+| hw1            | Sept 14, 11:59 pm     |
+| hw2            | Sept 21, 11:59 pm     |
+| hw3            | Oct 5, 11:59 pm       |
+| hw4            | Oct 12, 11:59 pm      |
 | **Midterm 1**  | Oct 19-21 (ORCA)      |
-| hw5            | Oct 27, 11:59 pm      |
-| hw6            | Nov 03, 11:59 pm      |
+| hw5            | Oct 26, 11:59 pm      |
+| hw6            | Nov 02, 11:59 pm      |
+| hw7            | Nov 09, 11:59 pm      |
 | **Midterm 2**  | Nov 12-14 (ORCA)      |
-| hw7            | November 17, 11:59 pm |
-| hw8            | November 24, 11:59 pm |
-| hw9            | December 05, 11:59 pm |
+| hw8            | November 23, 11:59 pm |
+| hw9            | December 04, 11:59 pm |
 | **Final exam** | TBA                   |
 
 <!-- 
