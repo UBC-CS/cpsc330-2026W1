@@ -10,7 +10,7 @@ This is the course homepage for CPSC 330: Applied Machine Learning at the Univer
 - [Course GitHub page](https://github.com/UBC-CS/cpsc330-2026W1)
 - [Course logistics](https://ubc-cs.github.io/cpsc330-2026W1)
 - [Course notes](https://ubc-cs.github.io/cpsc330-book/)
-- [Canvas](https://canvas.ubc.ca/courses/170662)
+- [Canvas](https://canvas.ubc.ca/courses/190981)
 - [Ed Discussion](https://edstem.org/us/courses/104703/discussion)
 - [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
 - [Syllabus / administrative info](syllabus.md)
@@ -33,6 +33,12 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 ### Course co-ordinator
 
 - Carol Feng ([cpsc330-admin@cs.ubc.ca](mailto:cpsc330-admin@cs.ubc.ca)), please reach out to the course co-ordinator for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, this will help us keep track of emails.
+
+### Office hours
+
+- Firas: To be announced.
+- Varada: Thursdays, 12:30 PM, ICCS 237.
+- Mehrdad: To be announced.
 
 ### TAs
 
@@ -78,13 +84,13 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 **Live lectures**: The lectures will be in-person. The location can be found in [the Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html).
 
-This course will be run in a semi flipped classroom format. There will be pre-watch videos for many lectures, at least in the first half of the course. All the videos are available on [YouTube](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM) and are posted in the schedule below. Try to watch the assigned videos before the corresponding lecture. During the lecture, we'll summarize the important points from the videos and focus on demos, iClickers, and Q&A.
+This course will be run in a semi flipped classroom format. There will be pre-watch videos for many lectures, at least in the first half of the course. All the videos are available on [YouTube](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM) and are posted in the schedule below. Watching the supporting videos before the corresponding lecture is highly recommended to help you understand the material. It is not required, and there are no pre-lecture quizzes. During the lecture, we'll summarize the important points from the videos and focus on demos, iClickers, and Q&A.
 
 You’ll find the lecture notes in textbook form here: [CPSC 330 textbook](https://ubc-cs.github.io/cpsc330-book/).
 
 Each instructor will use their own slides and/or Jupyter notebooks based on these lecture notes. 
 
-| Chp# | Date | Topic | Assigned videos | vs. CPSC 340 |
+| Chp# | Date | Topic | Recommended videos | vs. CPSC 340 |
 |-- | --- | --- | --- | --- |
 | | Sep 8 | _UBC Imagine Day - no class_ |  |  |
 | 1 | Sep 10 | Course intro | 📹 Pre-watch: [1.0](https://youtu.be/-1hTcS5ZE4w) | n/a |

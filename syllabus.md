@@ -16,35 +16,27 @@ You should be familiar with Python programming. See the [course learning objecti
 | 102     | [Varada Kolhatkar](https://kvarada.github.io/)                | [kvarada@cs.ubc.ca](mailto:kvarada@cs.ubc.ca)     | Tue & Thu, 11:00–12:20 | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
 | 103     | [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) | [moveisi@cs.ubc.ca](mailto:moveisi@cs.ubc.ca)     | Tue & Thu, 9:30–10:50  | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
 
-### Tutorials
-
-Schedule to be announced.
-
-### Teaching assistants
-
-To be announced.
+Tutorials: Schedule and teaching assistant details will be posted on the [course homepage](README.md).
 
 ## Communication and getting help
 
-For questions about course material, post on [Ed Discussion](https://canvas.ubc.ca/courses/190981/external_tools/69381?display=borderless) or attend [office hours](#office-hours).
+For questions about course material, post on [Ed Discussion](https://canvas.ubc.ca/courses/190981/external_tools/69381?display=borderless) or attend [office hours](README.md#office-hours).
 
 For administrative questions, extensions, and academic concessions, email course coordinator **Carol Feng** at [cpsc330-admin@cs.ubc.ca](mailto:cpsc330-admin@cs.ubc.ca). See [academic concessions](#academic-concessions) for the request process.
 
-### Office hours
-
-- Firas: 
-- Varada: Thursdays 12:30 PM ICCS 237
-- Mehrdad: 
-
 ## Learning materials and class expectations
 
-Use the class pages for lecture notes, slides, and supporting videos. See the [local setup guide](docs/setup.md) if you want to run notebooks on your own computer.
+Use the class pages for [lecture notes](https://ubc-cs.github.io/cpsc330-book/), slides, and supporting videos. See the [local setup guide](docs/setup.md) if you want to run notebooks on your own computer.
+
+Watching the supporting videos before the corresponding lecture is highly recommended to help you understand the material.
 
 ### Lecture recordings
 
 This is an in-person class, and we do not livestream or make recordings available by default. If you miss a class, you can catch up by reviewing the lecture notes and talking to your peers. Students who were absent for approved reasons (e.g., illness, jury duty) can be given access to existing lecture recordings (when available), but please note that these will be from previous course instances. It is the student's responsibility to make sure they are keeping up with the most up-to-date material, which will be the one included in the notes.
 
 ## Assessments and grading
+
+See the [assessment schedule on the course homepage](README.md#deliverable-due-dates-tentative) for homework due dates, the syllabus quiz deadline, and exam dates.
 
 ### Grade weights
 
@@ -60,7 +52,7 @@ This is an in-person class, and we do not livestream or make recordings availabl
 
 **All students must satisfy both conditions to pass the course:**
 
-- Pass the Assignments component with an average grade of at least 40%,
+- Earn a homework average of at least 40%, calculated after dropping the lowest eligible homework grade.
 - Pass the Midterms and Final Exam together with a weighted average grade of at least 50%
 
 **If a student does not satisfy the appropriate requirements, the student will be assigned the lower of their earned course grade or, a maximum overall grade of 45 in the course. In exceptional cases (with approved concessions), passing requirements may be waived at the discretion of the course instructor; if waived, the student will earn a maximum grade of 50% in the course.**
@@ -69,7 +61,11 @@ See the [detailed grade policies](docs/grades.md) for more information.
 
 ### Participation
 
-Participation is tentatively worth 5% of the course grade. Details on how to earn participation credit are to be confirmed.
+Participation is worth 5% of the course grade. We plan to assess participation during tutorials; details on how to earn credit will be announced.
+
+### Syllabus quiz
+
+Complete the syllabus quiz by the deadline listed on the course homepage. The quiz is ungraded and does not contribute to your course grade.
 
 ### Homework
 
@@ -113,10 +109,10 @@ The final exam is scheduled for the exam period and is comprehensive, covering t
 
 ### Exam accommodations
 
-Students who are registered with the Centre for Accessibility (CfA) with exam accommodations listed on the [ORCA accommodations page](https://orca.ubc.ca/students/accommodations) will need to write all of their assessments in the Computer-Based Testing Facility (ORCA).
+Students who are registered with the Centre for Accessibility (CfA) with exam accommodations listed on the [ORCA accommodations page](https://orca.ubc.ca/students/accommodations) will need to write their midterms in the Computer-Based Testing Facility (ORCA).
 
-If you have an accommodation that is not listed on that page, you will write your assessments with the CfA and will need to book a time by their deadline.
-Please do not book any assessments with the CfA if you are expected to write in the ORCA, as the CfA will cancel the exam booking and ask you to book it yourself with the ORCA.
+If you have an accommodation that is not listed on that page, you will write your midterms with the CfA and will need to book a time by their deadline.
+Please do not book midterms with the CfA if you are expected to write them in the ORCA, as the CfA will cancel the exam booking and ask you to book it yourself with the ORCA.
 If you have any concerns about your accommodations being met in the ORCA, please reach out to your Accessibility Advisor.
 
 ### Academic concessions
@@ -130,6 +126,8 @@ Please note that when possible (short term occurrences) tokens should be used as
 ## Academic integrity and conduct
 
 ### Plagiarism and unauthorized collaboration
+
+You may discuss concepts and approaches with classmates. Write your own answers and code independently unless you are working together on an official group assignment. Follow any additional collaboration instructions for each assessment.
 
 Academic integrity means acting honestly and responsibly in your academic work. Plagiarism is a form of academic misconduct that occurs when an individual presents the work or ideas of another person as their own without appropriate acknowledgement. Plagiarism and unauthorized collaboration include:
 
@@ -159,7 +157,7 @@ For group work, all members must know about and agree to any GenAI use. All grou
 
 #### What you may share with GenAI tools
 
-When GenAI use is permitted, you may ask conceptual questions or share your own code and writing for feedback or debugging, subject to the privacy and group-work requirements below. Do not include instructor-provided assignment instructions, slides, notes, solutions, or quiz and exam questions or answers unless the instructor explicitly permits it.
+When GenAI use is permitted, you may ask conceptual questions or share your own code and writing for feedback or debugging, subject to the privacy and group-work requirements in this policy. Do not include instructor-provided assignment instructions, slides, notes, solutions, or quiz and exam questions or answers unless the instructor explicitly permits it.
 
 Many GenAI tools may store or reuse information provided to them. Do not enter confidential or sensitive information into GenAI tools, including student information (names, student numbers, or other personal information), confidential partner or project information (datasets, proprietary information, or client details), or other confidential assessment content.
 
