@@ -207,7 +207,8 @@ project:
       title: Attribution
 site:
   options: # https://mystmd.org/guide/website-templates#site-options
-    logo: content/img/UBC-CS-logo.png
+    logo: img/UBC-CS-logo.png
+    favicon: img/UBC-CS-logo.png
     analytics_google: ''
     folders: true
     hide_outline: false
