@@ -1,0 +1,53 @@
+# install with conda env create -f cpsc330env.yml 
+name: 'cpsc330'
+channels:
+    - conda-forge
+    - pytorch
+    - anaconda
+    - plotly
+    - defaults    
+dependencies:
+    - python<3.14
+    - ipykernel
+    - matplotlib
+    - pandas
+    - jupyterlab
+    - jupyterlab-git
+    - jupyterlab-spellchecker
+    - nb_conda_kernels
+    - scikit-learn
+    - requests
+    - ipython
+    - panel 
+    - graphviz
+    - python-graphviz
+    - jinja2
+    - lightgbm
+    - torchaudio
+    - autograd
+    - plotly
+    - wikipedia    
+    - spacy
+    - nltk    
+    - pip>=24.2
+    - seaborn
+    - xgboost
+    - catboost>1.2.7
+    - eli5
+    - shap
+    - yellowbrick
+    - gensim
+    - lifelines
+    # - torchvision # Let students install it on their own
+    # - pytorch     # Let students install it on their own
+    - pip:
+        - mglearn
+        - otter-grader
+        - graphviz        
+        - nbformat
+        - nbclient
+        - transformers
+        - datasets
+        - ultralytics
+        - psutil>=5.7.2
+        - ydata-profiling
