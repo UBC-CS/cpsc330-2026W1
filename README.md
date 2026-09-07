@@ -7,7 +7,6 @@ This is the course homepage for CPSC 330: Applied Machine Learning at the Univer
 ## Important links
 
 - [Syllabus](syllabus.md)
-- [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html)
 - [Course GitHub page](https://github.com/UBC-CS/cpsc330-2026W1)
 - [Course logistics](https://ubc-cs.github.io/cpsc330-2026W1)
 - [Course notes](https://ubc-cs.github.io/cpsc330-book/)
@@ -37,13 +36,6 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 ### TAs
 
-## License
-
-© 2026 Varada Kolhatkar, Mike Gelbart, Giulia Toti
-
-Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), non-software content licensed under [the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/). See the [license file](LICENSE.md) for more information.
-
-
 ## Deliverable due dates (tentative)
 
 <!-- Usually the homework assignments will be due on Mondays (except next week) and will be released on Tuesdays. We'll also add the due dates in the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). If you find inconsistencies in due dates, follow the due date in the Calendar. For this course, we'll assume that the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html) is always right! -->
@@ -51,6 +43,7 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 | Assessment     | Due date              |
 |----------------|-----------------------|
 | hw1            | Sept 14, 11:59 pm     |
+| Syllabus quiz  | Sept 19, 11:59 pm     |
 | hw2            | Sept 21, 11:59 pm     |
 | hw3            | Oct 5, 11:59 pm       |
 | hw4            | Oct 12, 11:59 pm      |
@@ -177,3 +170,10 @@ Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
 The syllabus is available [here](syllabus.md).
 
 Enjoy your learning journey in CPSC 330: Applied Machine Learning!
+
+
+## License
+
+© 2026 Varada Kolhatkar, Mike Gelbart, Giulia Toti, Firas Moosvi, Mehrdad Oveisi
+
+Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), non-software content licensed under [the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/). See the [license file](LICENSE.md) for more information.
