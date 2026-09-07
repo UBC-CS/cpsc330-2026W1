@@ -6,17 +6,7 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 You should be familiar with Python programming. See the [course learning objectives](https://ubc-cs.github.io/cpsc330-book/learning-objectives.html) for what you will learn.
 
-## Class meetings and teaching team
-
-### Lectures
-
-| Section | Instructor                                                    | Contact                                           | When                   | Where                                                        |
-|---------|---------------------------------------------------------------|---------------------------------------------------|------------------------|--------------------------------------------------------------|
-| 101     | [Firas Moosvi](https://firas.moosvi.com/)                     | [Ed Discussion](https://canvas.ubc.ca/courses/190981/external_tools/69381?display=borderless) | Tue & Thu, 15:30–16:50 | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
-| 102     | [Varada Kolhatkar](https://kvarada.github.io/)                | [kvarada@cs.ubc.ca](mailto:kvarada@cs.ubc.ca)     | Tue & Thu, 11:00–12:20 | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
-| 103     | [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) | [moveisi@cs.ubc.ca](mailto:moveisi@cs.ubc.ca)     | Tue & Thu, 9:30–10:50  | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
-
-Tutorials: Schedule and teaching assistant details will be posted on the [course homepage](README.md).
+See the [course homepage](README.md) for class times, locations, instructors, and tutorial details.
 
 ## Communication and getting help
 
