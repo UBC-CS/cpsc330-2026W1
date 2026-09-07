@@ -55,7 +55,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-01.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class01.ipynb
+          # - file: content/Mehrdad/class01.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class02.md
           children:
@@ -63,7 +63,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-02.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class02.ipynb
+          # - file: content/Mehrdad/class02.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class03.md
           children:
@@ -71,7 +71,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-03.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class03.ipynb
+          # - file: content/Mehrdad/class03.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class04.md
           children:
@@ -79,7 +79,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-04.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class04.ipynb
+          # - file: content/Mehrdad/class04.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class05.md
           children:
@@ -87,7 +87,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-05.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class05.ipynb
+          # - file: content/Mehrdad/class05.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class06.md
           children:
@@ -95,7 +95,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-06.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class06.ipynb
+          # - file: content/Mehrdad/class06.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class07.md
           children:
@@ -103,7 +103,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-07.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class07.ipynb
+          # - file: content/Mehrdad/class07.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class08.md
           children:
@@ -111,7 +111,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-08.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class08.ipynb
+          # - file: content/Mehrdad/class08.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class09.md
           children:
@@ -119,7 +119,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-09.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class09.ipynb
+          # - file: content/Mehrdad/class09.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class10.md
           children:
@@ -127,7 +127,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-10.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class10.ipynb
+          # - file: content/Mehrdad/class10.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class11.md
           children:
@@ -135,7 +135,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-11.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class11.ipynb
+          # - file: content/Mehrdad/class11.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class12.md
           children:
@@ -143,7 +143,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-12.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class12.ipynb
+          # - file: content/Mehrdad/class12.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class13.md
           children:
@@ -151,7 +151,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-13.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class13.ipynb
+          # - file: content/Mehrdad/class13.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class14.md
           children:
@@ -159,7 +159,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-14.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class14.ipynb
+          # - file: content/Mehrdad/class14.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class15.md
           children:
@@ -167,7 +167,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-15.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class15.ipynb
+          # - file: content/Mehrdad/class15.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class16.md
           children:
@@ -175,7 +175,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-16.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class16.ipynb
+          # - file: content/Mehrdad/class16.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class17.md
           children:
@@ -183,7 +183,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-17.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class17.ipynb
+          # - file: content/Mehrdad/class17.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class18.md
           children:
@@ -191,7 +191,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-18.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class18.ipynb
+          # - file: content/Mehrdad/class18.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class19.md
           children:
@@ -199,7 +199,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-19.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class19.ipynb
+          # - file: content/Mehrdad/class19.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class20.md
           children:
@@ -207,7 +207,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-20.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class20.ipynb
+          # - file: content/Mehrdad/class20.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class21.md
           children:
@@ -215,7 +215,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-21.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class21.ipynb
+          # - file: content/Mehrdad/class21.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class22.md
           children:
@@ -223,7 +223,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-22.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class22.ipynb
+          # - file: content/Mehrdad/class22.ipynb
           #   title: Notebook (Sec 103)
         - file: content/classes/class23.md
           children:
@@ -231,7 +231,7 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-23.html
             title: Slides (Sec 102)
-          # - file: content/classes/mehrdad-notebooks/class23.ipynb
+          # - file: content/Mehrdad/class23.ipynb
           #   title: Notebook (Sec 103)
     - file: content/tutorials/README.md
       title: Tutorials
