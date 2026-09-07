@@ -4,7 +4,7 @@
 
 Application of machine learning tools, with an emphasis on solving practical problems. Data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results.
 
-You should be familiar with Python programming. See the [course learning objectives](learning-objectives.md) for what you will learn.
+You should be familiar with Python programming. See the [course learning objectives](https://ubc-cs.github.io/cpsc330-book/learning-objectives.html) for what you will learn.
 
 ## Class meetings and teaching team
 

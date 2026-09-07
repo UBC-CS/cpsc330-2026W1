@@ -24,7 +24,8 @@ project:
       children:        
         - title: About CPSC 330
           children:
-            - file: learning-objectives.md
+            - url: https://ubc-cs.github.io/cpsc330-book/learning-objectives.html
+              title: Learning objectives
             - file: docs/330_vs_340.md
         # - url: https://us.prairielearn.com/pl/course_instance/215839/assessment/2682686
         #   title: PrairieLearn

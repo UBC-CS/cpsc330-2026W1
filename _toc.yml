@@ -8,7 +8,8 @@ chapters:
   #     - file: syllabus
   #     - title: About CPSC 330
   #       sections:
-  #         - file: learning-objectives
+  #         - url: https://ubc-cs.github.io/cpsc330-book/learning-objectives.html
+  #           title: Learning objectives
   #         - file: docs/330_vs_340
   #     - title: Setup
   #       sections:
