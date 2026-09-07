@@ -46,7 +46,7 @@ project:
         - file: docs/README.md
     - url: https://ubc-cs.github.io/cpsc330-book/
       title: Course Textbook
-    - file: content/Firas/README.md
+    - file: content/classes/README.md
       title: Classes
       children:
         - file: content/classes/class01.md

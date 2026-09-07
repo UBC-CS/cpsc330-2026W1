@@ -24,11 +24,14 @@ For questions about course material, post on [Ed Discussion](https://canvas.ubc.
 
 For administrative questions, extensions, and academic concessions, email course coordinator **Carol Feng** at [cpsc330-admin@cs.ubc.ca](mailto:cpsc330-admin@cs.ubc.ca). See [academic concessions](#academic-concessions) for the request process.
 
-## Learning materials and class expectations
+## Course materials
 
-Use the class pages for [lecture notes](https://ubc-cs.github.io/cpsc330-book/), slides, and supporting videos. See the [local setup guide](docs/setup.md) if you want to run notebooks on your own computer.
+- **Course website:** This website contains schedules, announcements, policies, and instructor-specific slides for the 2026W1 offering of CPSC 330.
+- **Course notes:** The [CPSC 330 book](https://ubc-cs.github.io/cpsc330-book/) contains the shared lecture notes.
+- **Instructor slides:** Each instructor prepares slides based on the course notes. Find your section's slides under [Classes](content/classes/README.md) in the course navigation.
+- **Supporting videos:** The [course YouTube playlist](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM) provides supporting explanations. Watching the relevant videos before class is highly recommended to help you follow the lectures.
 
-Watching the supporting videos before the corresponding lecture is highly recommended to help you understand the material.
+See the [local setup guide](docs/setup.md) if you want to run notebooks on your own computer.
 
 ### Lecture recordings
 
@@ -119,7 +122,7 @@ If you have any concerns about your accommodations being met in the ORCA, please
 
 UBC has a [policy on academic concession](https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend."
 
-To request an academic concession, please write to the course coordinator (cpsc330-admin@cs.ubc.ca), with your section instructor copied in the email. Additional documentation might be requested. We will review your situation and determine whether to approve the concession, and if approved, the appropriate steps to follow.
+To request an academic concession, email the course coordinator (cpsc330-admin@cs.ubc.ca) **before the assessment due date**, copying your section instructor. **Submitting a request does not guarantee approval.** Additional documentation may be requested. We will review your situation and notify you of the decision and, if approved, the next steps.
 
 Please note that when possible (short term occurrences) tokens should be used as the default concession mechanism for assignments.
 

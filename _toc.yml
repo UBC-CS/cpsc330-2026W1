@@ -51,7 +51,7 @@ chapters:
       - file: lectures/notes/22_communication.ipynb
       - file: lectures/notes/23_ethics.md
       - file: lectures/notes/24_deployment-conclusion.ipynb
-  - file: lectures/Firas/README.md
+  - file: content/classes/README.md
     title: Slides
     sections:
       - file: lectures/Firas/class01.md
