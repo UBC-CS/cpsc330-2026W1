@@ -38,7 +38,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 - Firas: To be announced.
 - Varada: Thursdays, 12:30 PM, ICCS 237.
-- Mehrdad: To be announced.
+- Mehrdad: Tuesdays and Thursdays, 11:00 AM, ICCS 146, for as long as there are questions.
 
 ### TAs
 
