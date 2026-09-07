@@ -54,5 +54,8 @@ Below are the assigned videos for this class.
 
 ### Section 103 (Mehrdad)
 
-...[Link to Jupyter notebook]()
+<a href="https://ubc-cs.github.io/cpsc330-book/book/02_terminology-baselines-decision-trees.html"
+   target="_blank">
+   02_terminology-baselines-decision-trees
+</a>
 
