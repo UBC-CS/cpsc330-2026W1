@@ -43,6 +43,7 @@ Below are the assigned videos for this class.
 <iframe src="https://firasm.github.io/cpsc330-slides/slides-02.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
+[Download the Slides from today](../../files/Lec02.pdf)
 
 ### Section 102 (Varada)
 <div>
@@ -53,6 +54,5 @@ Below are the assigned videos for this class.
 
 ### Section 103 (Mehrdad)
 
-...
+...[Link to Jupyter notebook]()
 
-[Download the Slides from today](../../files/Lec02.pdf)

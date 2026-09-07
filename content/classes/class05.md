@@ -61,4 +61,4 @@ Below are the assigned videos for Lecture 5.
 
 ### Section 103 (Mehrdad)
 
-...
+...[Link to Jupyter notebook]()
