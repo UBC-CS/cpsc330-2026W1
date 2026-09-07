@@ -4,47 +4,32 @@
 
 Application of machine learning tools, with an emphasis on solving practical problems. Data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results.
 
-You should be familiar with Python programming. See the [course learning objectives](learning-objectives.md) for what you will learn.
+You should be familiar with Python programming. See the [course learning objectives](https://ubc-cs.github.io/cpsc330-book/learning-objectives.html) for what you will learn.
 
-## Class meetings and teaching team
-
-### Lectures
-
-| Section | Instructor                                                    | Contact                                           | When                   | Where                                                        |
-|---------|---------------------------------------------------------------|---------------------------------------------------|------------------------|--------------------------------------------------------------|
-| 101     | [Firas Moosvi](https://firas.moosvi.com/)                     | [Ed Discussion](https://canvas.ubc.ca/courses/190981/external_tools/69381?display=borderless) | Tue & Thu, 15:30–16:50 | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
-| 102     | [Varada Kolhatkar](https://kvarada.github.io/)                | [kvarada@cs.ubc.ca](mailto:kvarada@cs.ubc.ca)     | Tue & Thu, 11:00–12:20 | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
-| 103     | [Mehrdad Oveisi](https://www.cs.ubc.ca/people/mehrdad-oveisi) | [moveisi@cs.ubc.ca](mailto:moveisi@cs.ubc.ca)     | Tue & Thu, 9:30–10:50  | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
-
-### Tutorials
-
-Schedule to be announced.
-
-### Teaching assistants
-
-To be announced.
+See the [course homepage](README.md) for class times, locations, instructors, and tutorial details.
 
 ## Communication and getting help
 
-For questions about course material, post on [Ed Discussion](https://canvas.ubc.ca/courses/190981/external_tools/69381?display=borderless) or attend [office hours](#office-hours).
+For questions about course material, post on [Ed Discussion](https://canvas.ubc.ca/courses/190981/external_tools/69381?display=borderless) or attend [office hours](README.md#office-hours).
 
 For administrative questions, extensions, and academic concessions, email course coordinator **Carol Feng** at [cpsc330-admin@cs.ubc.ca](mailto:cpsc330-admin@cs.ubc.ca). See [academic concessions](#academic-concessions) for the request process.
 
-### Office hours
+## Course materials
 
-- Firas: 
-- Varada: Thursdays 12:30 PM ICCS 237
-- Mehrdad: 
+- **Course website:** This website contains schedules, announcements, policies, and instructor-specific slides for the 2026W1 offering of CPSC 330.
+- **Course notes:** The [CPSC 330 book](https://ubc-cs.github.io/cpsc330-book/) contains the shared lecture notes.
+- **Instructor slides:** Each instructor prepares slides based on the course notes. Find your section's slides under [Classes](content/classes/README.md) in the course navigation.
+- **Supporting videos:** The [course YouTube playlist](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM) provides supporting explanations. Watching the relevant videos before class is highly recommended to help you follow the lectures.
 
-## Learning materials and class expectations
-
-Use the class pages for lecture notes, slides, and supporting videos. See the [local setup guide](docs/setup.md) if you want to run notebooks on your own computer.
+See the [local setup guide](docs/setup.md) if you want to run notebooks on your own computer.
 
 ### Lecture recordings
 
 This is an in-person class, and we do not livestream or make recordings available by default. If you miss a class, you can catch up by reviewing the lecture notes and talking to your peers. Students who were absent for approved reasons (e.g., illness, jury duty) can be given access to existing lecture recordings (when available), but please note that these will be from previous course instances. It is the student's responsibility to make sure they are keeping up with the most up-to-date material, which will be the one included in the notes.
 
 ## Assessments and grading
+
+See the [assessment schedule on the course homepage](README.md#deliverable-due-dates-tentative) for homework due dates, the syllabus quiz deadline, and exam dates.
 
 ### Grade weights
 
@@ -60,7 +45,7 @@ This is an in-person class, and we do not livestream or make recordings availabl
 
 **All students must satisfy both conditions to pass the course:**
 
-- Pass the Assignments component with an average grade of at least 40%,
+- Earn a homework average of at least 40%, calculated after dropping the lowest eligible homework grade.
 - Pass the Midterms and Final Exam together with a weighted average grade of at least 50%
 
 **If a student does not satisfy the appropriate requirements, the student will be assigned the lower of their earned course grade or, a maximum overall grade of 45 in the course. In exceptional cases (with approved concessions), passing requirements may be waived at the discretion of the course instructor; if waived, the student will earn a maximum grade of 50% in the course.**
@@ -69,7 +54,11 @@ See the [detailed grade policies](docs/grades.md) for more information.
 
 ### Participation
 
-Participation is tentatively worth 5% of the course grade. Details on how to earn participation credit are to be confirmed.
+Participation is worth 5% of the course grade. We plan to assess participation during tutorials; details on how to earn credit will be announced.
+
+### Syllabus quiz
+
+Complete the syllabus quiz by the deadline listed on the course homepage. The quiz is ungraded and does not contribute to your course grade.
 
 ### Homework
 
@@ -113,23 +102,25 @@ The final exam is scheduled for the exam period and is comprehensive, covering t
 
 ### Exam accommodations
 
-Students who are registered with the Centre for Accessibility (CfA) with exam accommodations listed on the [ORCA accommodations page](https://orca.ubc.ca/students/accommodations) will need to write all of their assessments in the Computer-Based Testing Facility (ORCA).
+Students who are registered with the Centre for Accessibility (CfA) with exam accommodations listed on the [ORCA accommodations page](https://orca.ubc.ca/students/accommodations) will need to write their midterms in the Computer-Based Testing Facility (ORCA).
 
-If you have an accommodation that is not listed on that page, you will write your assessments with the CfA and will need to book a time by their deadline.
-Please do not book any assessments with the CfA if you are expected to write in the ORCA, as the CfA will cancel the exam booking and ask you to book it yourself with the ORCA.
+If you have an accommodation that is not listed on that page, you will write your midterms with the CfA and will need to book a time by their deadline.
+Please do not book midterms with the CfA if you are expected to write them in the ORCA, as the CfA will cancel the exam booking and ask you to book it yourself with the ORCA.
 If you have any concerns about your accommodations being met in the ORCA, please reach out to your Accessibility Advisor.
 
 ### Academic concessions
 
 UBC has a [policy on academic concession](https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend."
 
-To request an academic concession, please write to the course coordinator (cpsc330-admin@cs.ubc.ca), with your section instructor copied in the email. Additional documentation might be requested. We will review your situation and determine whether to approve the concession, and if approved, the appropriate steps to follow.
+To request an academic concession, email the course coordinator (cpsc330-admin@cs.ubc.ca) **before the assessment due date**, copying your section instructor. **Submitting a request does not guarantee approval.** Additional documentation may be requested. We will review your situation and notify you of the decision and, if approved, the next steps.
 
 Please note that when possible (short term occurrences) tokens should be used as the default concession mechanism for assignments.
 
 ## Academic integrity and conduct
 
 ### Plagiarism and unauthorized collaboration
+
+You may discuss concepts and approaches with classmates. Write your own answers and code independently unless you are working together on an official group assignment. Follow any additional collaboration instructions for each assessment.
 
 Academic integrity means acting honestly and responsibly in your academic work. Plagiarism is a form of academic misconduct that occurs when an individual presents the work or ideas of another person as their own without appropriate acknowledgement. Plagiarism and unauthorized collaboration include:
 
@@ -159,7 +150,7 @@ For group work, all members must know about and agree to any GenAI use. All grou
 
 #### What you may share with GenAI tools
 
-When GenAI use is permitted, you may ask conceptual questions or share your own code and writing for feedback or debugging, subject to the privacy and group-work requirements below. Do not include instructor-provided assignment instructions, slides, notes, solutions, or quiz and exam questions or answers unless the instructor explicitly permits it.
+When GenAI use is permitted, you may ask conceptual questions or share your own code and writing for feedback or debugging, subject to the privacy and group-work requirements in this policy. Do not include instructor-provided assignment instructions, slides, notes, solutions, or quiz and exam questions or answers unless the instructor explicitly permits it.
 
 Many GenAI tools may store or reuse information provided to them. Do not enter confidential or sensitive information into GenAI tools, including student information (names, student numbers, or other personal information), confidential partner or project information (datasets, proprietary information, or client details), or other confidential assessment content.
 
