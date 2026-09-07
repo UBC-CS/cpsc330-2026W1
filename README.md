@@ -171,13 +171,6 @@ Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
 
 </details>
 
-## Syllabus
-
-The syllabus is available [here](syllabus.md).
-
-Enjoy your learning journey in CPSC 330: Applied Machine Learning!
-
-
 ## License
 
 © 2026 Varada Kolhatkar, Mike Gelbart, Giulia Toti, Firas Moosvi, Mehrdad Oveisi
