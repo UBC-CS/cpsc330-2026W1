@@ -50,7 +50,7 @@ Below are the assigned videos for this class.
 <iframe src="https://kvarada.github.io/cpsc330-slides/slides/slides-02-terminology-decision-trees.html#/title-slide" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-
+<br><br>
 
 ### Section 103 (Mehrdad)
 
