@@ -4,7 +4,7 @@ project:
   authors:
     - name: Varada Kolhatkar
     - name: Giulia Toti
-    - name: classes/mehrdad Oveisi
+    - name: Mehrdad Oveisi
     - name: Firas Moosvi
     - name: many others!
   exclude:
@@ -56,7 +56,8 @@ project:
           - url: https://kvarada.github.io/cpsc330-slides/lecture-01.html
             title: Slides (Sec 102)
           # - file: content/classes/mehrdad/class01.ipynb
-          #   title: Notebook (Sec 103)
+          - url: https://ubc-cs.github.io/cpsc330-book/book/01_intro.html
+            title: Notebook (Sec 103)
         - file: content/classes/class02.md
           children:
           - url: https://firasm.github.io/cpsc330-slides/slides-01.html
@@ -64,7 +65,8 @@ project:
           - url: https://kvarada.github.io/cpsc330-slides/lecture-02.html
             title: Slides (Sec 102)
           # - file: content/classes/mehrdad/class02.ipynb
-          #   title: Notebook (Sec 103)
+          - url: https://ubc-cs.github.io/cpsc330-book/book/02_terminology-baselines-decision-trees.html
+            title: Notebook (Sec 103)
         - file: content/classes/class03.md
           children:
           - url: https://firasm.github.io/cpsc330-slides/slides-01.html

@@ -31,6 +31,11 @@ Below are the assigned videos for this class.
 </div>
 
 
+<br><br>
+
 ### Section 103 (Mehrdad)
 
-...
+<a href="https://ubc-cs.github.io/cpsc330-book/book/01_intro.html"
+   target="_blank">
+   01_intro
+</a>
