@@ -75,166 +75,166 @@ project:
             title: Slides (Sec 102)
           # - file: content/classes/mehrdad/class03.ipynb
           #   title: Notebook (Sec 103)
-        - file: content/classes/class04.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-04.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class04.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class05.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-05.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class05.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class06.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-06.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class06.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class07.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-07.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class07.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class08.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-08.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class08.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class09.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-09.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class09.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class10.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-10.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class10.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class11.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-11.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class11.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class12.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-12.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class12.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class13.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-13.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class13.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class14.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-14.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class14.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class15.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-15.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class15.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class16.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-16.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class16.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class17.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-17.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class17.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class18.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-18.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class18.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class19.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-19.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class19.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class20.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-20.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class20.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class21.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-21.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class21.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class22.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-22.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class22.ipynb
-          #   title: Notebook (Sec 103)
-        - file: content/classes/class23.md
-          children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-            title: Slides (Sec 101)
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-23.html
-            title: Slides (Sec 102)
-          # - file: content/classes/mehrdad/class23.ipynb
-          #   title: Notebook (Sec 103)
+        # - file: content/classes/class04.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-04.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class04.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class05.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-05.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class05.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class06.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-06.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class06.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class07.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-07.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class07.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class08.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-08.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class08.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class09.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-09.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class09.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class10.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-10.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class10.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class11.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-11.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class11.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class12.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-12.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class12.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class13.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-13.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class13.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class14.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-14.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class14.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class15.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-15.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class15.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class16.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-16.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class16.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class17.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-17.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class17.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class18.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-18.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class18.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class19.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-19.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class19.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class20.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-20.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class20.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class21.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-21.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class21.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class22.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-22.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class22.ipynb
+        #   #   title: Notebook (Sec 103)
+        # - file: content/classes/class23.md
+        #   children:
+        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+        #     title: Slides (Sec 101)
+        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-23.html
+        #     title: Slides (Sec 102)
+        #   # - file: content/classes/mehrdad/class23.ipynb
+        #   #   title: Notebook (Sec 103)
     - file: content/tutorials/README.md
       title: Tutorials
       children:
