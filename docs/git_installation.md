@@ -7,7 +7,7 @@ Before we set up your coding environment, let's clarify what Git and GitHub are:
 
 You'll use Git to **download course materials** and **work on your homework assignments** throughout the term.  
 
-GitHub is a web-based application and does not require set-up. Since you will be cloning the [course GitHub repository](https://github.com/UBC-CS/cpsc330-2026S1) in order to run the lecture notebooks locally, you need git installed locally. Follow the instructions below for this.
+GitHub is a web-based application and does not require set-up. Since you will be cloning the [course GitHub repository](https://github.com/UBC-CS/cpsc330-2026W1) in order to run the lecture notebooks locally, you need git installed locally. Follow the instructions below for this.
 
 ## Option 1: GitHub Desktop (easiest)
 
@@ -79,7 +79,7 @@ You have two options:
 
 Our recommendation: use **[choose one: PAT or SSH depending on what you prefer for this class]**. If you get stuck, bring your laptop to tutorials or office hours, and w'll help you set it up.  
 
-That's it! With Git installed, you're ready to clone [the course GitHub repository](https://github.com/UBC-CS/cpsc330-2026S1) and start working on your homework assignments. 
+That's it! With Git installed, you're ready to clone [the course GitHub repository](https://github.com/UBC-CS/cpsc330-2026W1) and start working on your homework assignments. 
 
 ## Learning git
 

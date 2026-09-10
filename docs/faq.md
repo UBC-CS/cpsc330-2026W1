@@ -1,7 +1,7 @@
 # Frequently Asked Questions  
 
 ## What are the prerequisites for this class?  
-The course has minimal prerequisites. If you are comfortable with Python programming, you should be able to follow along. If your programming is rusty, we recommend brushing up on key concepts before the term begins. Check out the resources [here](https://ubc-cs.github.io/cpsc330-2026S1/docs/resources). 
+The course has minimal prerequisites. If you are comfortable with Python programming, you should be able to follow along. If your programming is rusty, we recommend brushing up on key concepts before the term begins. Check out the resources [here](https://ubc-cs.github.io/cpsc330-2026W1/docs/resources). 
 
 ## Can I audit the class?  
 If the course is full, we do not allow official auditors. You're welcome to sit in informally, but please reach out to the instructor first. Also, please avoid taking a seat if the classroom is crowded. We want to prioritize enrolled students.  
@@ -10,7 +10,7 @@ If the course is full, we do not allow official auditors. You're welcome to sit 
 You are expected to attend your assigned section. If you have a one-time conflict, you may attend another section, but note that you will not receive participation points for that session.  
 
 ## Can I use generative AI in this course?
-Please read our full [Generative AI usage policy](https://ubc-cs.github.io/cpsc330-2026S1/syllabus#use-of-generative-ai-in-the-course).
+Please read our full [Generative AI usage policy](https://ubc-cs.github.io/cpsc330-2026W1/syllabus#use-of-generative-ai-in-the-course).
 
 **TL;DR: use AI to support, not substitute, your work.** If you use a tool:
 - **Cite it** (tool name/version).
@@ -21,7 +21,7 @@ Please read our full [Generative AI usage policy](https://ubc-cs.github.io/cpsc3
 - **You are responsible** for any errors ("hallucinations") the tool produces.
 
 ## How do I submit homework assignments?  
-All assignments are submitted on PrairieLearn. Detailed instructions are provided on the [course website](https://ubc-cs.github.io/cpsc330-2026S1/docs/homework-instructions). Make sure to follow them carefully.
+All assignments are submitted on PrairieLearn. Detailed instructions are provided on the [course website](https://ubc-cs.github.io/cpsc330-2026W1/docs/homework-instructions). Make sure to follow them carefully.
 
 ## I'm on the waitlist. How likely am I to get into this course?  
 We don't control the waitlist, but here are some things to keep in mind:  
