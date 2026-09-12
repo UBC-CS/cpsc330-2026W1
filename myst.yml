@@ -240,6 +240,8 @@ project:
       children:
         - file: content/tutorials/00_tutorial0.md
           title: Tutorial 0
+        - file: content/tutorials/01_tutorial1.md
+          title: Tutorial 1
         - file: content/tutorials/01_decision_boundaries.ipynb
           title: Tutorial 1
         - file: content/tutorials/02_ML_fundamentals.ipynb
