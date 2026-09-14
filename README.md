@@ -50,6 +50,17 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 ### TAs
 
+- Jun He Cui
+- Neo Ghassemi
+- James Ho
+- Himanshu Mishra
+- Narmada Naik
+- Sneha Sambandam
+- Sarthak Sharma
+- Joseph Soo
+- Mahsa Zarei
+- Perry Zhu
+
 ## Deliverable due dates (tentative)
 
 <!-- Usually the homework assignments will be due on Mondays (except next week) and will be released on Tuesdays. We'll also add the due dates in the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). If you find inconsistencies in due dates, follow the due date in the Calendar. For this course, we'll assume that the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html) is always right! -->
