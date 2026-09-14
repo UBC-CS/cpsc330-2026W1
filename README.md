@@ -38,7 +38,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 | Day            | Time              | Host                     | Link/Location                                                                                    |
 | -------        | ------------------| -------------------------| ----------------------                                                                           |
-| Monday         | 13:00–14:00       | Sarthak                  | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & TBD             |
+| Monday         | 13:00–14:00       | Sarthak                  | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1)             |
 | Monday         | 15:00–16:00       | James                    | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & TBD             |
 | Tuesday        | 11:00             | Mehrdad & Joseph         | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & ICCS X153       |
 | Tuesday        | 17:00–17:30       | Firas                    | DMP 310                                                                                          |
