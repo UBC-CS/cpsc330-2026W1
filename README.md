@@ -46,7 +46,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 | Thursday       | 11:00             | Mehrdad & Narmada        | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & ICCS X153       |
 | Thursday       | 12:30             | Varada                   | ICCS 237                                                                                         |
 | Thursday       | 17:00–17:30       | Firas                    | DMP 310                                                                                          |
-| Friday         | 16:00–17:00       | Sarthak                  | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & TBD             |
+| Friday         | TBD               | Sarthak                  | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & TBD             |
 
 ### TAs
 
