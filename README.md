@@ -36,11 +36,31 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 ### Office hours
 
-- Firas: Tuesday and Thursday 5-5:30 PM in DMP 310.
-- Varada: Thursdays, 12:30 PM, ICCS 237.
-- Mehrdad: Tuesdays and Thursdays, 11:00 AM, ICCS 146, for as long as there are questions.
+| Day            | Time              | Host                     | Link/Location                                                                                    |
+| -------        | ------------------| -------------------------| ----------------------                                                                           |
+| Monday         | 13:00–14:00       | Sarthak                  | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1)             |
+| Monday         | 15:00–16:00       | James                    | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1)             |
+| Tuesday        | 11:00             | Mehrdad & Joseph         | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & ICCS X153       |
+| Tuesday        | 12:30 to 1:00     | Varada                   | ICCS 237                                                                                         |
+| Tuesday        | 17:00–17:30       | Firas                    | DMP 310                                                                                          |
+| Wednesday      | 14:00–15:00       | James                    | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & ICCS X153             |
+| Thursday       | 11:00             | Mehrdad & Narmada        | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & ICCS X153       |
+| Thursday       | 12:30 to 1:00     | Varada                   | ICCS 237                                                                                         |
+| Thursday       | 17:00–17:30       | Firas                    | DMP 310                                                                                          |
+| Friday         | TBD               | Sarthak                  | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & TBD             |
 
 ### TAs
+
+- Jun He Cui
+- Neo Ghassemi
+- James Ho
+- Himanshu Mishra
+- Narmada Naik
+- Sneha Sambandam
+- Sarthak Sharma
+- Joseph Soo
+- Mahsa Zarei
+- Perry Zhu
 
 ## Deliverable due dates (tentative)
 
