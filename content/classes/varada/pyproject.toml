@@ -1,0 +1,16 @@
+[project]
+name = "cpsc330-varada-demos"
+version = "0.1.0"
+description = "Notebook environment for CPSC 330 lecture demos"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "ipykernel>=6,<8",
+    "jupyterlab>=4,<5",
+    "matplotlib>=3.9,<4",
+    "numpy>=2,<3",
+    "pandas>=2.2,<3",
+    "scikit-learn>=1.5,<2",
+]
+
+[tool.uv]
+package = false
