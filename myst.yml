@@ -60,7 +60,7 @@ project:
             title: Notebook (Sec 103)
         - file: content/classes/class02.md
           children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+          - url: https://firasm.github.io/cpsc330-slides/slides-02.html
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-02.html
             title: Slides (Sec 102)
@@ -69,7 +69,7 @@ project:
             title: Notebook (Sec 103)
         - file: content/classes/class03.md
           children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+          - url: https://firasm.github.io/cpsc330-slides/slides-03.html
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-03.html
             title: Slides (Sec 102)
