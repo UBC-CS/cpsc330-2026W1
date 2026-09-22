@@ -59,7 +59,7 @@ Below are the assigned videos for Lecture 4
 
 ### Section 102 (Varada)
 
-...
+https://kvarada.github.io/cpsc330-slides/lecture-04.html
 
 
 ### Section 103 (Mehrdad)
