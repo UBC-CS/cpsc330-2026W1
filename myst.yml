@@ -81,16 +81,16 @@ project:
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-04.html
             title: Slides (Sec 102)
-        #   # - file: content/classes/mehrdad/class04.ipynb
-        #   #   title: Notebook (Sec 103)
-        # - file: content/classes/class05.md
-        #   children:
-        #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
-        #     title: Slides (Sec 101)
-        #   - url: https://kvarada.github.io/cpsc330-slides/lecture-05.html
-        #     title: Slides (Sec 102)
-        #   # - file: content/classes/mehrdad/class05.ipynb
-        #   #   title: Notebook (Sec 103)
+          # - file: content/classes/mehrdad/class04.ipynb
+          #   title: Notebook (Sec 103)
+        - file: content/classes/class05.md
+          children:
+          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+            title: Slides (Sec 101)
+          - url: https://kvarada.github.io/cpsc330-slides/lecture-05.html
+            title: Slides (Sec 102)
+          # - file: content/classes/mehrdad/class05.ipynb
+          #   title: Notebook (Sec 103)
         # - file: content/classes/class06.md
         #   children:
         #   - url: https://firasm.github.io/cpsc330-slides/slides-01.html
