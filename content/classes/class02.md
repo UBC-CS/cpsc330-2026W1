@@ -46,9 +46,8 @@ Below are the assigned videos for this class.
 [Download the Slides from today](../../files/Lec02.pdf)
 
 ### Section 102 (Varada)
-<div>
-<iframe src="https://kvarada.github.io/cpsc330-slides/slides/slides-02-terminology-decision-trees.html#/title-slide" width="100%" height="600px" frameBorder="0"> </iframe>
-</div>
+
+https://kvarada.github.io/cpsc330-slides/lecture-02.html
 
 <br><br>
 

@@ -26,10 +26,7 @@ Below are the assigned videos for this class.
 
 ### Section 102 (Varada)
 
-<div>
-<iframe src="https://kvarada.github.io/cpsc330-slides/slides/slides-01-intro.html#/title-slide" width="100%" height="600px" frameBorder="0"> </iframe>
-</div>
-
+https://kvarada.github.io/cpsc330-slides/lecture-01.html
 
 <br><br>
 

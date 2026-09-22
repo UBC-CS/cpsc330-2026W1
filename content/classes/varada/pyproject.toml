@@ -5,11 +5,17 @@ description = "Notebook environment for CPSC 330 lecture demos"
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "ipykernel>=6,<8",
+    "ipywidgets>=8,<9",
+    "jupyter-bokeh>=4,<5",
     "jupyterlab>=4,<5",
     "matplotlib>=3.9,<4",
+    "mglearn>=0.2.0,<0.3",
     "numpy>=2,<3",
     "pandas>=2.2,<3",
+    "panel>=1.8,<2",
     "scikit-learn>=1.5,<2",
+    "torch>=2,<3",
+    "torchvision>=0.20,<1",
 ]
 
 [tool.uv]
