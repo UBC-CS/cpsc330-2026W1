@@ -58,9 +58,7 @@ Below are the assigned videos for Lecture 3.
 
 ### Section 102 (Varada)
 
-<div>
-<iframe src="https://kvarada.github.io/cpsc330-slides/slides/slides-03-ml-fundamentals.html#/title-slide" width="100%" height="600px" frameBorder="0"> </iframe>
-</div>
+https://kvarada.github.io/cpsc330-slides/lecture-03.html
 
 
 
