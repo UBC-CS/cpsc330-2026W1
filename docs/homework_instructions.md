@@ -38,6 +38,8 @@ When you're ready to submit your assignment on PrairieLearn, make sure all your 
 
 1. Run all cells in your notebook to make sure there are no errors by running all cells: `Kernel -> Restart Kernel and Clear All Outputs` and then `Run -> Run All Cells`.
 
+1. **For autograded questions, avoid changing answer variables later unless another question asks you to.** For example, if `answer_df` is your answer and you want to add columns for exploration, make a copy first: `exploration_df = answer_df.copy()`.
+
 1. Notebooks with cell execution numbers out of order or not starting from "1" will have marks deducted. Notebooks without the output displayed may not be graded at all (because we need to see the output in order to grade your work).
 
 <!-- ### Submitting on Gradescope
