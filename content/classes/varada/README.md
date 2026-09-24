@@ -1,5 +1,8 @@
 # Lecture demos
 
+This directory contains CPSC 330 lecture demo notebooks and a shared Python
+environment. Follow the setup below once, then open the notebook for your lecture.
+
 ## Student setup
 
 1. Install Git and [uv](https://docs.astral.sh/uv/getting-started/installation/).
@@ -21,16 +24,19 @@
    uv downloads Python 3.12 if needed and creates a local `.venv`. No manual
    activation or separate Python installation is required.
 
-4. Confirm that `data/kc_house_data.csv` is present. Run the commands from this
-   `varada` directory so the notebook can find the dataset.
+4. Check the notebook's setup instructions for any required datasets or downloads.
+   Local datasets are stored in `data/`. Run commands from this `varada` directory
+   so the notebooks can resolve their relative paths.
 5. Start JupyterLab:
 
    ```sh
-   uv run --locked jupyter lab lecture-3-demo.ipynb
+   uv run --locked jupyter lab
    ```
 
-   Use the Python 3 kernel. The notebook includes TODO exercises to complete
-   during class; running all cells before filling these in will produce errors.
+   Open the notebook for your lecture and use the Python 3 kernel. Run cells in
+   order, following the notebook's discussion prompts and exercises. Some demos
+   include intentional failure examples or interactive controls; follow the
+   instructions beside those cells.
 
 ### VS Code
 
@@ -42,10 +48,13 @@ Python Environments**, and choose this directory's `.venv` interpreter.
 
 `pyproject.toml` declares the dependencies, `.python-version` selects Python 3.12,
 and `uv.lock` records the resolved package versions. Commit all three files along
-with this README, the notebook, and `data/kc_house_data.csv`. `.venv` is already
-ignored by the repository.
+with this README and any updated notebooks. Include required local datasets and
+supporting files when suitable for distribution, or document how to obtain them.
+`.venv` is already ignored by the repository.
 
-Before class, verify that the notebook's first cell loads the dataset successfully.
+Before class, verify the relevant notebook from a fresh kernel: check setup,
+data loading, runnable cells, and any interactive controls. Clearly label
+intentional errors and document any additional downloads in the notebook.
 
 To add a dependency, run `uv add PACKAGE` from this directory. To intentionally
 refresh all locked versions, run `uv lock --upgrade` followed by `uv sync --locked`.
