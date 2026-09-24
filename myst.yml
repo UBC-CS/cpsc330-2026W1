@@ -85,7 +85,7 @@ project:
           #   title: Notebook (Sec 103)
         - file: content/classes/class05.md
           children:
-          - url: https://firasm.github.io/cpsc330-slides/slides-01.html
+          - url: https://firasm.github.io/cpsc330-slides/slides-05.html
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-05.html
             title: Slides (Sec 102)
