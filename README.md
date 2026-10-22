@@ -69,23 +69,29 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 <!-- Usually the homework assignments will be due on Mondays (except next week) and will be released on Tuesdays. We'll also add the due dates in the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). If you find inconsistencies in due dates, follow the due date in the Calendar. For this course, we'll assume that the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html) is always right! -->
 
-| Assessment     | Due date              |
-|----------------|-----------------------|
-| hw1            | Sept 14, 11:59 pm     |
-| Syllabus quiz  | Sept 19, 11:59 pm     |
-| hw2            | Sept 21, 11:59 pm     |
-| hw3            | Oct 5, 11:59 pm       |
-| hw4            | Oct 12, 11:59 pm      |
-| **Midterm 1**  | Oct 19-21 (ORCA)      |
-| hw5            | Oct 26, 11:59 pm      |
-| hw6            | Nov 02, 11:59 pm      |
-| hw7            | Nov 09, 11:59 pm      |
-| **Midterm 2**  | Nov 12-14 (ORCA)      |
-| hw8            | November 23, 11:59 pm |
-| hw9            | December 04, 11:59 pm |
-| **Final exam** | TBA                   |
+| Assessment     | Due date                                                                     |
+|----------------|------------------------------------------------------------------------------|
+| hw1            | Sept 14, 11:59 pm                                                            |
+| Syllabus quiz  | Sept 19, 11:59 pm                                                            |
+| hw2            | Sept 21, 11:59 pm                                                            |
+| hw3            | Oct 5, 11:59 pm                                                              |
+| hw4            | Oct 12, 11:59 pm                                                             |
+| **Midterm 1**  | Oct 19-21 (ORCA)                                                             |
+| hw5            | <strikethrough>Oct 26, 11:59 pm </strikethrough> Oct 28, 11:59 pm (extended) |
+| hw6            | TBD                                                                          |
+| hw7            | TBD                                                                          |
+| **Midterm 2**  | Nov 12-14 (ORCA)                                                             |
+| hw8            | November 23, 11:59 pm                                                        |
+| hw9            | December 04, 11:59 pm                                                        |
+| **Final exam** | TBA                                                                          |
 
 <!-- 
+
+| hw6            | TBD Nov 02, 11:59 pm      |
+| hw7            | Nov 09, 11:59 pm      |
+
+
+
 | Assessment     | Due date              | Where to find?                                                                     | Where to submit?                                                    |
 | -------------- | --------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | hw1            | Sept 09, 11:59 pm     | [GitHub repo](https://github.com/new?template_name=hw1&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/29785)               |
