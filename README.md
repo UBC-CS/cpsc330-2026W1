@@ -77,9 +77,9 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 | hw3            | Oct 5, 11:59 pm                                                              |
 | hw4            | Oct 12, 11:59 pm                                                             |
 | **Midterm 1**  | Oct 19-21 (ORCA)                                                             |
-| hw5            | <strikethrough>Oct 26, 11:59 pm </strikethrough> Oct 28, 11:59 pm (extended) |
-| hw6            | TBD                                                                          |
-| hw7            | TBD                                                                          |
+| hw5            | <s>Oct 26, 11:59 pm</s> Oct 28, 11:59 pm (extended)                          |
+| hw6            | Nov 02, 11:59 pm                                                             |
+| hw7            | <s>Nov 09>Nov 15, 11:59 PM                                                 |
 | **Midterm 2**  | Nov 12-14 (ORCA)                                                             |
 | hw8            | November 23, 11:59 pm                                                        |
 | hw9            | December 04, 11:59 pm                                                        |
