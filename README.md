@@ -42,14 +42,14 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 | Monday         | 15:00–16:00       | James                    | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1)                   |
 | Tuesday        | 10:50             | Mehrdad                  | DMP 310 (for as long as there are questions)                                                     |
 | Tuesday        | 11:00             | Joseph                   | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & ICCS X153       |
-| Tuesday        | 12:30             | Varada                   | DMP 310 (for as long as there are questions)                                                                                     |
+| Tuesday        | 12:30             | Varada                   | DMP 310 (for as long as there are questions)                                                     |
 | Tuesday        | 17:00–17:30       | Firas                    | DMP 310                                                                                          |
 | Wednesday      | 14:00–15:00       | James                    | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & ICCS X153       |
 | Thursday       | 10:50             | Mehrdad                  | DMP 310 (for as long as there are questions)                                                     |
 | Thursday       | 11:00             | Narmada                  | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1) & ICCS X153       |
-| Thursday       | 12:30      | Varada                   | DMP 310  (for as long as there are questions)                                                                                       |
+| Thursday       | 12:30      | Varada                   | DMP 310  (for as long as there are questions)                                                           |
 | Thursday       | 17:00–17:30       | Firas                    | DMP 310                                                                                          |
-| Friday         | 12:00–13:00       | Sneha                    | Cancelled on Oct 16                   |
+| Friday         | 12:00–13:00       | Sneha                    | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1)                   |
 | Friday         | 13:00–14:00       | Sarthak                  | [Zoom](https://ubc.zoom.us/j/69798529790?pwd=yGTnc28LvQ47okn573sa8LhoPgab2i.1)                   |
 
 ### TAs
