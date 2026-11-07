@@ -162,7 +162,7 @@ Each instructor will use their own slides and/or Jupyter notebooks based on thes
 | 7    | Oct 21-23 | Tu5: Ensembles                         |                          |
 | 8    | Oct 28-30 | Tu6: Clustering                        |                          |
 | 9    | Nov 04-06 | Midterm 2 Prep                         |                          |
-| 10   | Nov 12-13 | Tutorials used as TA Office Hours (for HW7; no MT2 content questions will be answered)      | All students are welcome to any tutorial on Thursday and Friday |
+| 10   | Nov 12-13 | Tutorials used as TA Office Hours (for HW7 only; MT2 content questions will not be answered)      | All students are welcome to any tutorial on Thursday and Friday |
 | 11   | Nov 18-20 | Tu7: LLMs                              |                          |
 | 12   | Nov 25-27 | Tu8: Time Series                       |                          |
 | 13   | Dec 02-04 | Tu9: Fairness                          |                          |
