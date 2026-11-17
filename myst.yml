@@ -227,27 +227,27 @@ project:
         #     title: Slides (Sec 102)
         #   # - file: content/classes/mehrdad/class23.ipynb
         #   #   title: Notebook (Sec 103)
-    - file: content/tutorials/README.md
-      title: Tutorials
-      children:
-        - file: content/tutorials/00_tutorial0.md
-          title: Tutorial 0
-        - file: content/tutorials/01_tutorial1.md
-          title: Tutorial 1
-        - file: content/tutorials/01_decision_boundaries.ipynb
-          title: Tutorial 1
-        - file: content/tutorials/02_ML_fundamentals.ipynb
-          title: Tutorial 2
-        - file: content/tutorials/03_Preprocessing_extra_practice.ipynb
-          title: Tutorial 3
-        - file: content/tutorials/05_Ensembles.ipynb
-          title: Tutorial 5
-        - file: content/tutorials/06_clustering.ipynb
-          title: Tutorial 6
-        - file: content/tutorials/08_Time_series.ipynb
-          title: Tutorial 8
-    - file: LICENSE.md
-      title: Attribution
+    # - file: content/tutorials/README.md
+    #   title: Tutorials
+    #   children:
+    #     - file: content/tutorials/00_tutorial0.md
+    #       title: Tutorial 0
+    #     - file: content/tutorials/01_tutorial1.md
+    #       title: Tutorial 1
+    #     - file: content/tutorials/01_decision_boundaries.ipynb
+    #       title: Tutorial 1
+    #     - file: content/tutorials/02_ML_fundamentals.ipynb
+    #       title: Tutorial 2
+    #     - file: content/tutorials/03_Preprocessing_extra_practice.ipynb
+    #       title: Tutorial 3
+    #     - file: content/tutorials/05_Ensembles.ipynb
+    #       title: Tutorial 5
+    #     - file: content/tutorials/06_clustering.ipynb
+    #       title: Tutorial 6
+    #     - file: content/tutorials/08_Time_series.ipynb
+    #       title: Tutorial 8
+    # - file: LICENSE.md
+    #   title: Attribution
 site:
   options: # https://mystmd.org/guide/website-templates#site-options
     logo: img/UBC-CS-logo.png
