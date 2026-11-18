@@ -246,8 +246,8 @@ project:
     #       title: Tutorial 6
     #     - file: content/tutorials/08_Time_series.ipynb
     #       title: Tutorial 8
-    # - file: LICENSE.md
-    #   title: Attribution
+    - file: LICENSE.md
+      title: Attribution
 site:
   options: # https://mystmd.org/guide/website-templates#site-options
     logo: img/UBC-CS-logo.png
