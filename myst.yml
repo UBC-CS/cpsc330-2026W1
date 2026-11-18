@@ -181,7 +181,7 @@ project:
           #   title: Notebook (Sec 103)
         - file: content/classes/class18.md
           children:
-          - url: https://kvarada.github.io/cpsc330-slides/lecture-18.html
+          - url: https://kvarada.github.io/cpsc330-slides/slides/slides-18-natural-language-processing.html
             title: Slides (Sec 101)
           - url: https://kvarada.github.io/cpsc330-slides/lecture-18.html
             title: Slides (Sec 102)
