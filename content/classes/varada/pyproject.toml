@@ -9,6 +9,7 @@ dependencies = [
     "ipywidgets>=8,<9",
     "jupyter-bokeh>=4,<5",
     "jupyterlab>=4,<5",
+    "lifelines>=0.30.3",
     "lightgbm>=4.7.0",
     "matplotlib>=3.9,<4",
     "mglearn>=0.2.0,<0.3",
